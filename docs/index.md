@@ -1,0 +1,49 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
+<div class="hero" markdown>
+
+# Décider numérique et IA
+
+<p class="hero-lede">Les outils et ressources qui prolongent le livre, pour le dirigeant qui décide sans subir.</p>
+
+</div>
+
+Ce site accompagne le livre **« Gouverner le numérique et l'IA sans être expert. Le guide du dirigeant qui décide sans subir »**. Il rassemble les outils opérationnels, les grilles d'auto-évaluation, les cas, le glossaire étendu et la veille réglementaire qui complètent l'ouvrage.
+
+La thèse du livre est simple : le défi du dirigeant face au numérique n'est pas technique, il est épistémique. Il ne s'agit pas de devenir expert, mais de savoir poser les bonnes questions, structurer les bons arbitrages, et reconnaître ce qui relève de sa responsabilité non délégable.
+
+## Par où commencer
+
+<div class="card-grid" markdown>
+
+<div class="card" markdown>
+<span class="card-tag">Outil phare</span>
+### Auto-évaluation en 20 questions
+Situez la maturité de la gouvernance numérique de votre organisation en vingt minutes.
+
+[Démarrer l'auto-évaluation](outils/auto-evaluation-gouvernance.md)
+</div>
+
+<div class="card" markdown>
+<span class="card-tag">Tous les outils</span>
+### Boîte à outils du dirigeant
+Grilles, check-lists, questions à poser, modèles de tableaux de bord.
+
+[Voir les outils](outils/index.md)
+</div>
+
+<div class="card" markdown>
+<span class="card-tag">Le livre</span>
+### À propos de l'ouvrage
+La genèse, la thèse, le public visé, et où se procurer le livre.
+
+[En savoir plus](a-propos-du-livre/index.md)
+</div>
+
+</div>
+
+<p class="disclaimer">L'auteur s'exprime à titre personnel. Aucune information interne non publique n'est reproduite sur ce site. © 2026 Mehdi Moudden. Tous droits réservés. Concepts originaux protégés au titre du dépôt INPI Soleau DSO2026014317.</p>

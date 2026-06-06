@@ -1,0 +1,381 @@
+/* ==========================================================================
+   Décider numérique et IA, charte visuelle
+   Palette navy/or, typographie EB Garamond + Inter
+   ========================================================================== */
+
+:root {
+  --navy: #1F3A5F;
+  --navy-dark: #142847;
+  --navy-light: #2D5A8F;
+  --or: #C8A04E;
+  --or-soft: #F4D9B0;
+  --or-pale: #FBF3E2;
+  --bleu-pale: #E8EEF4;
+
+  /* Surcharge des variables Material */
+  --md-primary-fg-color: var(--navy);
+  --md-primary-fg-color--light: var(--navy-light);
+  --md-primary-fg-color--dark: var(--navy-dark);
+  --md-accent-fg-color: var(--or);
+  --md-typeset-a-color: var(--navy);
+}
+
+/* Mode sombre : palette adaptée */
+[data-md-color-scheme="slate"] {
+  --navy: #6B8FB8;
+  --navy-light: #8FB0D0;
+  --or: #D4B26A;
+  --or-soft: #6B5A38;
+  --or-pale: #2E2820;
+  --bleu-pale: #1E2A3A;
+  --md-primary-fg-color: #1A2540;
+  --md-accent-fg-color: var(--or);
+  --md-typeset-a-color: var(--navy-light);
+}
+
+/* --------------------------------------------------------------------------
+   Typographie
+   -------------------------------------------------------------------------- */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-family: 'EB Garamond', Georgia, serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  color: var(--navy);
+}
+.md-typeset h1 {
+  font-size: 2.3rem;
+  line-height: 1.15;
+}
+[data-md-color-scheme="slate"] .md-typeset h1,
+[data-md-color-scheme="slate"] .md-typeset h2,
+[data-md-color-scheme="slate"] .md-typeset h3 {
+  color: var(--navy-light);
+}
+
+/* --------------------------------------------------------------------------
+   En-tête de page : kicker + métadonnées
+   -------------------------------------------------------------------------- */
+.kicker {
+  display: inline-block;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--or);
+  padding: 0.35rem 0.8rem;
+  border: 1px solid var(--or);
+  border-radius: 2px;
+  margin-bottom: 1rem;
+}
+
+.meta-card {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0;
+  border: 1px solid var(--bleu-pale);
+  border-radius: 4px;
+  overflow: hidden;
+  margin: 1.5rem 0 2rem;
+}
+.meta-cell {
+  padding: 1rem 1.3rem;
+  border-right: 1px solid var(--bleu-pale);
+  background: var(--or-pale);
+}
+.meta-cell:last-child { border-right: none; }
+.meta-label {
+  display: block;
+  font-size: 0.66rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--or);
+  margin-bottom: 0.3rem;
+}
+.meta-value {
+  font-size: 0.9rem;
+  font-weight: 500;
+  line-height: 1.35;
+}
+@media (max-width: 600px) {
+  .meta-card { grid-template-columns: 1fr; }
+  .meta-cell { border-right: none; border-bottom: 1px solid var(--bleu-pale); }
+  .meta-cell:last-child { border-bottom: none; }
+}
+
+/* --------------------------------------------------------------------------
+   Bloc référence livre
+   -------------------------------------------------------------------------- */
+.ref-livre {
+  margin: 2.5rem 0;
+  padding: 1.5rem 1.8rem;
+  background: var(--or-pale);
+  border-left: 4px solid var(--or);
+  border-radius: 0 4px 4px 0;
+}
+.ref-livre-label {
+  display: block;
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--navy);
+  margin-bottom: 0.5rem;
+}
+.ref-livre p {
+  font-family: 'EB Garamond', Georgia, serif;
+  font-size: 1.05rem;
+  font-style: italic;
+  margin: 0;
+}
+[data-md-color-scheme="slate"] .ref-livre-label { color: var(--navy-light); }
+
+/* --------------------------------------------------------------------------
+   Disclaimer de pied de page
+   -------------------------------------------------------------------------- */
+.disclaimer {
+  font-size: 0.85rem;
+  font-style: italic;
+  color: var(--md-default-fg-color--light);
+  margin-top: 2.5rem;
+  padding-top: 1.2rem;
+  border-top: 1px solid var(--bleu-pale);
+}
+
+/* --------------------------------------------------------------------------
+   Questionnaire auto-évaluation
+   -------------------------------------------------------------------------- */
+.quiz-progression {
+  position: sticky;
+  top: 3.5rem;
+  z-index: 3;
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--bleu-pale);
+  border-radius: 4px;
+  padding: 0.9rem 1.3rem;
+  margin: 2rem 0;
+  box-shadow: 0 2px 8px rgba(31, 58, 95, 0.06);
+}
+.quiz-progression-row {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.quiz-progression-bar {
+  flex: 1;
+  height: 5px;
+  background: var(--bleu-pale);
+  border-radius: 3px;
+  overflow: hidden;
+  position: relative;
+}
+.quiz-progression-bar-fill {
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  background: linear-gradient(90deg, var(--or) 0%, var(--navy) 100%);
+  width: 0%;
+  transition: width 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  border-radius: 3px;
+}
+.quiz-progression-text {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--navy);
+  white-space: nowrap;
+}
+.quiz-progression-score strong {
+  font-family: 'EB Garamond', Georgia, serif;
+  font-size: 1.6rem;
+  color: var(--navy);
+  font-weight: 600;
+}
+[data-md-color-scheme="slate"] .quiz-progression-text,
+[data-md-color-scheme="slate"] .quiz-progression-score strong { color: var(--navy-light); }
+
+.quiz-section {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  background: var(--md-code-bg-color);
+  border: 1px solid var(--bleu-pale);
+  border-radius: 4px;
+}
+.quiz-section-titre {
+  display: flex;
+  align-items: baseline;
+  gap: 0.7rem;
+  margin-bottom: 1.3rem;
+}
+.quiz-section-numero {
+  font-family: 'EB Garamond', Georgia, serif;
+  font-size: 2rem;
+  font-style: italic;
+  color: var(--or);
+}
+.quiz-section-label {
+  font-family: 'EB Garamond', Georgia, serif;
+  font-size: 1.25rem;
+  color: var(--navy);
+  font-weight: 500;
+}
+[data-md-color-scheme="slate"] .quiz-section-label { color: var(--navy-light); }
+.quiz-section-sous {
+  display: block;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.78rem;
+  color: var(--md-default-fg-color--light);
+  font-weight: 400;
+  margin-top: 0.15rem;
+}
+
+.quiz-question {
+  padding: 1.1rem 0;
+  border-bottom: 1px solid var(--bleu-pale);
+}
+.quiz-question:last-child { border-bottom: none; }
+.quiz-question-texte {
+  font-size: 0.95rem;
+  font-weight: 500;
+  line-height: 1.5;
+  margin-bottom: 0.8rem;
+}
+.quiz-question-num {
+  font-family: 'EB Garamond', Georgia, serif;
+  font-style: italic;
+  color: var(--or);
+  font-weight: 500;
+  margin-right: 0.4rem;
+}
+.quiz-reponses {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.5rem;
+}
+@media (max-width: 600px) {
+  .quiz-reponses { grid-template-columns: repeat(2, 1fr); }
+}
+.quiz-reponse input {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+.quiz-reponse label {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.6rem 0.4rem;
+  border: 1px solid var(--bleu-pale);
+  border-radius: 4px;
+  cursor: pointer;
+  text-align: center;
+  transition: all 0.18s ease;
+  background: var(--md-default-bg-color);
+}
+.quiz-reponse label:hover {
+  border-color: var(--navy);
+  background: var(--bleu-pale);
+}
+.quiz-reponse input:checked + label {
+  border-color: var(--navy);
+  background: var(--navy);
+  color: #fff;
+}
+.quiz-reponse input:checked + label .reponse-score { color: var(--or-soft); }
+.quiz-reponse-libelle { font-size: 0.78rem; font-weight: 500; line-height: 1.2; }
+.reponse-score {
+  font-family: 'EB Garamond', Georgia, serif;
+  font-style: italic;
+  font-size: 0.9rem;
+  color: var(--or);
+  font-weight: 500;
+}
+
+.resultat {
+  margin: 2.5rem 0;
+  padding: 2rem;
+  background: var(--navy);
+  color: #fff;
+  border-radius: 6px;
+  opacity: 0;
+  transform: translateY(15px);
+  transition: opacity 0.5s, transform 0.5s;
+}
+.resultat.is-revealed { opacity: 1; transform: translateY(0); }
+.resultat-kicker {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--or-soft);
+  margin-bottom: 0.8rem;
+}
+.resultat-titre {
+  font-family: 'EB Garamond', Georgia, serif;
+  font-size: 1.7rem;
+  color: #fff !important;
+  margin: 0 0 1rem 0;
+}
+.resultat-score-num {
+  font-family: 'EB Garamond', Georgia, serif;
+  font-size: 4rem;
+  font-weight: 500;
+  color: var(--or-soft);
+  line-height: 1;
+}
+.resultat-score-sur { font-size: 1.3rem; color: rgba(255,255,255,0.6); font-style: italic; }
+.resultat-corps { color: rgba(255,255,255,0.92); font-size: 0.95rem; line-height: 1.6; margin-top: 1rem; }
+.resultat-corps strong { color: #fff; }
+
+/* --------------------------------------------------------------------------
+   Cartes d'index (listes d'outils, articles)
+   -------------------------------------------------------------------------- */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+.card {
+  border: 1px solid var(--bleu-pale);
+  border-radius: 6px;
+  padding: 1.3rem;
+  transition: all 0.2s;
+  background: var(--md-default-bg-color);
+}
+.card:hover {
+  border-color: var(--or);
+  box-shadow: 0 4px 14px rgba(31, 58, 95, 0.08);
+}
+.card h3 { margin-top: 0 !important; font-size: 1.1rem !important; }
+.card p { font-size: 0.88rem; color: var(--md-default-fg-color--light); margin-bottom: 0.5rem; }
+.card-tag {
+  display: inline-block;
+  font-size: 0.66rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--or);
+  margin-bottom: 0.5rem;
+}
+
+/* --------------------------------------------------------------------------
+   Bandeau d'accueil (hero)
+   -------------------------------------------------------------------------- */
+.hero {
+  text-align: center;
+  padding: 2.5rem 1rem 1.5rem;
+  margin-bottom: 1rem;
+}
+.hero h1 { font-size: 2.6rem !important; margin-bottom: 0.8rem; }
+.hero-lede {
+  font-family: 'EB Garamond', Georgia, serif;
+  font-size: 1.3rem;
+  font-style: italic;
+  color: var(--md-default-fg-color--light);
+  max-width: 580px;
+  margin: 0 auto 1.5rem;
+}

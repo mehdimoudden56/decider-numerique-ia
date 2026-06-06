@@ -1,0 +1,130 @@
+site_name: Décider numérique et IA
+site_url: https://decider-numerique-ia.fr/
+site_author: Mehdi Moudden
+site_description: >-
+  Outils, ressources et veille en complément du livre « Gouverner le numérique
+  et l'IA sans être expert. Le guide du dirigeant qui décide sans subir ».
+copyright: >-
+  © 2026 Mehdi Moudden. L'auteur s'exprime à titre personnel.
+
+# ----------------------------------------------------------------------------
+# THÈME
+# ----------------------------------------------------------------------------
+theme:
+  name: material
+  language: fr
+  font:
+    text: Inter
+    code: JetBrains Mono
+  icon:
+    logo: material/compass-outline
+  favicon: assets/favicon.png
+  palette:
+    # Mode clair
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Passer en mode sombre
+    # Mode sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Passer en mode clair
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+
+# ----------------------------------------------------------------------------
+# CSS ET JS PERSONNALISÉS
+# ----------------------------------------------------------------------------
+extra_css:
+  - stylesheets/extra.css
+  - https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@300;400;500;600;700&display=swap
+
+extra_javascript:
+  - javascripts/quiz.js
+
+# ----------------------------------------------------------------------------
+# PLUGINS
+# ----------------------------------------------------------------------------
+plugins:
+  - search:
+      lang: fr
+  - glightbox
+  - minify:
+      minify_html: true
+  - encryptcontent:
+      title_prefix: '[Accès réservé] '
+      summary: >-
+        Cette page est réservée aux lectrices et lecteurs du livre. Le mot de
+        passe est imprimé dans la page de colophon de votre exemplaire.
+      placeholder: 'Mot de passe du livre'
+      decryption_failure_message: 'Mot de passe incorrect. Vérifiez la page de colophon de votre exemplaire.'
+      encryption_info_message: 'Contenu protégé. Saisissez le mot de passe imprimé dans le livre.'
+      remember_password: True
+      search_index: 'encrypted'
+      threshold_warning_min_entropy: 70
+
+# ----------------------------------------------------------------------------
+# EXTENSIONS MARKDOWN
+# ----------------------------------------------------------------------------
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+# ----------------------------------------------------------------------------
+# PIED DE PAGE ET LIENS SOCIAUX
+# ----------------------------------------------------------------------------
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/mehdimoudden
+      name: LinkedIn de l'auteur
+  generator: false
+
+# ----------------------------------------------------------------------------
+# NAVIGATION
+# ----------------------------------------------------------------------------
+nav:
+  - Accueil: index.md
+  - Le livre:
+      - Présentation: a-propos-du-livre/index.md
+      - Qui suis-je: a-propos-du-livre/qui-suis-je.md
+      - Pourquoi ce livre: a-propos-du-livre/pourquoi-ce-livre.md
+  - Outils:
+      - Tous les outils: outils/index.md
+      - Auto-évaluation en 20 questions: outils/auto-evaluation-gouvernance.md
+      - Action dans les 30 jours (chapitre 1): outils/action-30-jours-ch01.md
+      - Bonnes questions à poser (chapitre 1): outils/bonnes-questions-ch01.md
+  - Articles: articles/index.md
+  - Cas: cas/index.md
+  - Glossaire: glossaire/index.md
+  - Bibliographie: bibliographie/index.md
+  - Veille réglementaire: veille/index.md
+  - Concepts originaux: concepts-originaux/index.md
+  - Télécharger: telecharger.md
+  - Contact: contact.md
+  - Mentions légales: mentions-legales.md

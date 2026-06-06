@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /telecharger/
+
+Sitemap: https://decider-numerique-ia.fr/sitemap.xml
