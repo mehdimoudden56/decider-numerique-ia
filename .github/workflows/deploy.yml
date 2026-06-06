@@ -1,0 +1,58 @@
+name: Déploiement du site
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupération du dépôt
+        uses: actions/checkout@v4
+
+      - name: Installation de Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Installation des dépendances
+        run: pip install -r requirements.txt
+
+      - name: Injection du mot de passe des ressources réservées
+        env:
+          SITE_PASSWORD: ${{ secrets.SITE_PASSWORD }}
+        run: |
+          MOT_DE_PASSE="${SITE_PASSWORD:-gouverner-2027}"
+          sed -i "s/__SITE_PASSWORD__/${MOT_DE_PASSE}/" docs/telecharger.md
+          echo "Mot de passe injecte dans la page de telechargement."
+
+      - name: Build du site
+        run: mkdocs build --strict --site-dir _site
+
+      - name: Upload de l'artefact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Déploiement sur GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
