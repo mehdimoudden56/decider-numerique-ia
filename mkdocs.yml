@@ -117,11 +117,47 @@ nav:
   - Outils:
       - Tous les outils: outils/index.md
       - Auto-évaluation en 20 questions: outils/auto-evaluation-gouvernance.md
-      - Action dans les 30 jours (chapitre 1): outils/action-30-jours-ch01.md
-      - Bonnes questions à poser (chapitre 1): outils/bonnes-questions-ch01.md
+      - Conclusion outillée:
+          - Grilles et check-lists (A): outils/check-list-maturite-si.md
+          - Auto-diagnostic du dirigeant (B): outils/auto-diagnostic-dirigeant.md
+          - Tableaux de bord et comités (C): outils/tableau-bord-codir-si.md
+          - Scénarios types (D): outils/scenarios-types.md
+      - Action dans les 30 jours:
+          - Chapitre 1: outils/action-30-jours-ch01.md
+          - Chapitre 2: outils/action-30-jours-ch02.md
+          - Chapitre 3: outils/action-30-jours-ch03.md
+          - Chapitre 4: outils/action-30-jours-ch04.md
+          - Chapitre 5: outils/action-30-jours-ch05.md
+          - Chapitre 6: outils/action-30-jours-ch06.md
+          - Chapitre 7: outils/action-30-jours-ch07.md
+          - Chapitre 8: outils/action-30-jours-ch08.md
+          - Chapitre 9: outils/action-30-jours-ch09.md
+          - Chapitre 10: outils/action-30-jours-ch10.md
+          - Chapitre 11: outils/action-30-jours-ch11.md
+          - Chapitre 12: outils/action-30-jours-ch12.md
+          - Chapitre 13: outils/action-30-jours-ch13.md
+          - Chapitre 14: outils/action-30-jours-ch14.md
+          - Chapitre 15: outils/action-30-jours-ch15.md
+          - Chapitre 16: outils/action-30-jours-ch16.md
+      - Bonnes questions à poser:
+          - Chapitre 1: outils/bonnes-questions-ch01.md
+          - Chapitre 3: outils/bonnes-questions-ch03.md
+          - Chapitre 4: outils/bonnes-questions-ch04.md
+          - Chapitre 6: outils/bonnes-questions-ch06.md
+          - Chapitre 8: outils/bonnes-questions-ch08.md
+          - Chapitre 9: outils/bonnes-questions-ch09.md
+          - Chapitre 10: outils/bonnes-questions-ch10.md
+          - Chapitre 11: outils/bonnes-questions-ch11.md
+          - Chapitre 12: outils/bonnes-questions-ch12.md
+          - Chapitre 13: outils/bonnes-questions-ch13.md
+          - Chapitre 14: outils/bonnes-questions-ch14.md
+          - Chapitre 16: outils/bonnes-questions-ch16.md
+
   - Articles: articles/index.md
   - Cas: cas/index.md
-  - Glossaire: glossaire/index.md
+  - Glossaire:
+      - Tous les termes: glossaire/index.md
+      - Glossaire essentiel: glossaire/glossaire-essentiel.md
   - Bibliographie: bibliographie/index.md
   - Veille réglementaire: veille/index.md
   - Concepts originaux: concepts-originaux/index.md
