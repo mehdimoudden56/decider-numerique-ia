@@ -13,6 +13,30 @@ Situez la maturité de la gouvernance numérique de votre organisation.
 </div>
 
 <div class="card" markdown>
+<span class="card-tag">Repères · Ch 4</span>
+### Documents que le dirigeant doit exiger
+Les documents SI à savoir demander, lire et exiger.
+
+[Voir l’outil](documents-dirigeant.md)
+</div>
+
+<div class="card" markdown>
+<span class="card-tag">Méthode · Ch 6</span>
+### Priorisation du portefeuille de projets
+Structurer l’arbitrage du portefeuille de projets SI.
+
+[Voir l’outil](priorisation-portefeuille.md)
+</div>
+
+<div class="card" markdown>
+<span class="card-tag">Grille · Ch 6</span>
+### Grille de maturité projet et exploitation
+Situer sa maturité sur six dimensions, du projet à l’exploitation.
+
+[Voir l’outil](grille-maturite-projet-exploitation.md)
+</div>
+
+<div class="card" markdown>
 <span class="card-tag">Conclusion · A</span>
 ### Grilles et check-lists
 Maturité du SI et cadrage d’un grand projet.

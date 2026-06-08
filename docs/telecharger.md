@@ -13,11 +13,11 @@ Cette page est réservée aux lectrices et lecteurs du livre. Vous trouverez ci-
 
 ## Auto-évaluation de la gouvernance numérique
 
-- Grille d'auto-évaluation en 20 questions (PDF imprimable)
+- Grille d’auto-évaluation en 20 questions (PDF imprimable)
 - Grille de scoring multi-évaluateurs (XLSX)
-- Trame d'animation en comité de direction (PDF)
+- Trame d’animation en comité de direction (PDF)
 
 !!! note "À propos des téléchargements"
-    Les fichiers seront mis en ligne progressivement d'ici la parution du livre. Cette page liste les ressources prévues.
+    Les fichiers seront mis en ligne progressivement d’ici la parution du livre. Cette page liste les ressources prévues.
 
-<p class="disclaimer">L'auteur s'exprime à titre personnel. © 2026 Mehdi Moudden. Ces ressources sont réservées à un usage personnel.</p>
+<p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden. Ces ressources sont réservées à un usage personnel.</p>

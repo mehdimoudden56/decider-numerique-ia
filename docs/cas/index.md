@@ -1,8 +1,17 @@
-# Cas d'entreprise
+# Cas d’entreprise
 
-Des cas concrets et retours d'expérience, en complément des cas développés dans le livre.
+Des cas concrets et retours d’expérience, en complément des cas développés dans le livre.
 
-!!! note "En cours de mise en ligne"
-    Cette rubrique sera enrichie progressivement d'ici la parution du livre.
+<div class="card-grid" markdown>
 
-<p class="disclaimer">L'auteur s'exprime à titre personnel. © 2026 Mehdi Moudden.</p>
+<div class="card" markdown>
+<span class="card-tag">Cas pédagogique · Ch 9</span>
+### Val d’Armorique
+Une coopérative laitière ouvre son comité numérique stratégique : par où commencer un schéma directeur.
+
+[Lire le cas](val-d-armorique.md)
+</div>
+
+</div>
+
+<p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

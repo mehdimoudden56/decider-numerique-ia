@@ -6,4 +6,4 @@ Pour toute question sur le livre ou les ressources de ce site :
 
 Réponse sous sept jours en moyenne.
 
-<p class="disclaimer">L'auteur s'exprime à titre personnel. © 2026 Mehdi Moudden.</p>
+<p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

@@ -1,4 +1,4 @@
-<span class="kicker">Outil phare · Grille d'auto-diagnostic</span>
+<span class="kicker">Outil phare · Grille d’auto-diagnostic</span>
 # Auto-évaluation de la gouvernance numérique en 20 questions
 <div class="meta-card" markdown>
 <div class="meta-cell" markdown>
@@ -16,12 +16,12 @@
 </div>
 ## Contexte
 
-Cette grille propose vingt questions structurées autour de quatre dimensions de la gouvernance numérique : stratégie et alignement, organisation et compétences, risques et conformité, performance et valeur. Elle ne mesure pas la sophistication technique de votre système d'information, mais la solidité de son pilotage par la direction générale.
+Cette grille propose vingt questions structurées autour de quatre dimensions de la gouvernance numérique : stratégie et alignement, organisation et compétences, risques et conformité, performance et valeur. Elle ne mesure pas la sophistication technique de votre système d’information, mais la solidité de son pilotage par la direction générale.
 
-Renseignez-la seul, en quinze à vingt minutes, ou en comité de direction. Dans ce second cas, la valeur n'est pas dans le score final mais dans les écarts d'appréciation entre membres du comité, qui révèlent les zones aveugles de la gouvernance.
+Renseignez-la seul, en quinze à vingt minutes, ou en comité de direction. Dans ce second cas, la valeur n’est pas dans le score final mais dans les écarts d’appréciation entre membres du comité, qui révèlent les zones aveugles de la gouvernance.
 
-!!! tip "Mode d'emploi"
-    Pour chaque question, choisissez : **Pas du tout** (0), **En partie** (1), **Largement** (2), **Totalement** (3). Le score s'affiche en temps réel ; l'interprétation apparaît une fois les vingt questions renseignées. Si vous hésitez, choisissez la réponse la moins favorable : l'auto-indulgence est le premier biais à neutraliser dans un diagnostic.
+!!! tip "Mode d’emploi"
+    Pour chaque question, choisissez : **Pas du tout** (0), **En partie** (1), **Largement** (2), **Totalement** (3). Le score s’affiche en temps réel ; l’interprétation apparaît une fois les vingt questions renseignées. Si vous hésitez, choisissez la réponse la moins favorable : l’auto-indulgence est le premier biais à neutraliser dans un diagnostic.
 
 ## Questionnaire
 <div class="quiz-progression">
@@ -35,10 +35,10 @@ Renseignez-la seul, en quinze à vingt minutes, ou en comité de direction. Dans
 <div class="quiz-section">
   <div class="quiz-section-titre">
     <span class="quiz-section-numero">A.</span>
-    <span class="quiz-section-label">Stratégie et alignement<span class="quiz-section-sous">5 questions sur le lien entre stratégie d'entreprise et trajectoire numérique</span></span>
+    <span class="quiz-section-label">Stratégie et alignement<span class="quiz-section-sous">5 questions sur le lien entre stratégie d’entreprise et trajectoire numérique</span></span>
   </div>
   <div class="quiz-question">
-    <p class="quiz-question-texte"><span class="quiz-question-num">Q1.</span> La direction générale dispose d'un schéma directeur numérique formalisé, à horizon trois à cinq ans, articulé au plan stratégique de l'entreprise.</p>
+    <p class="quiz-question-texte"><span class="quiz-question-num">Q1.</span> La direction générale dispose d’un schéma directeur numérique formalisé, à horizon trois à cinq ans, articulé au plan stratégique de l’entreprise.</p>
     <div class="quiz-reponses">
       <div class="quiz-reponse"><input type="radio" name="q1" id="q1-0" value="0"><label for="q1-0"><span class="quiz-reponse-libelle">Pas du tout</span><span class="reponse-score">0</span></label></div>
       <div class="quiz-reponse"><input type="radio" name="q1" id="q1-1" value="1"><label for="q1-1"><span class="quiz-reponse-libelle">En partie</span><span class="reponse-score">1</span></label></div>
@@ -65,7 +65,7 @@ Renseignez-la seul, en quinze à vingt minutes, ou en comité de direction. Dans
     </div>
   </div>
   <div class="quiz-question">
-    <p class="quiz-question-texte"><span class="quiz-question-num">Q4.</span> Chaque direction métier dispose d'un référent SI identifié, capable d'exprimer les besoins fonctionnels sans se substituer à la DSI.</p>
+    <p class="quiz-question-texte"><span class="quiz-question-num">Q4.</span> Chaque direction métier dispose d’un référent SI identifié, capable d’exprimer les besoins fonctionnels sans se substituer à la DSI.</p>
     <div class="quiz-reponses">
       <div class="quiz-reponse"><input type="radio" name="q4" id="q4-0" value="0"><label for="q4-0"><span class="quiz-reponse-libelle">Pas du tout</span><span class="reponse-score">0</span></label></div>
       <div class="quiz-reponse"><input type="radio" name="q4" id="q4-1" value="1"><label for="q4-1"><span class="quiz-reponse-libelle">En partie</span><span class="reponse-score">1</span></label></div>
@@ -74,7 +74,7 @@ Renseignez-la seul, en quinze à vingt minutes, ou en comité de direction. Dans
     </div>
   </div>
   <div class="quiz-question">
-    <p class="quiz-question-texte"><span class="quiz-question-num">Q5.</span> Les sujets IA, données et cybersécurité figurent à l'agenda du comité stratégique SI, et non confinés à un sous-comité technique.</p>
+    <p class="quiz-question-texte"><span class="quiz-question-num">Q5.</span> Les sujets IA, données et cybersécurité figurent à l’agenda du comité stratégique SI, et non confinés à un sous-comité technique.</p>
     <div class="quiz-reponses">
       <div class="quiz-reponse"><input type="radio" name="q5" id="q5-0" value="0"><label for="q5-0"><span class="quiz-reponse-libelle">Pas du tout</span><span class="reponse-score">0</span></label></div>
       <div class="quiz-reponse"><input type="radio" name="q5" id="q5-1" value="1"><label for="q5-1"><span class="quiz-reponse-libelle">En partie</span><span class="reponse-score">1</span></label></div>
@@ -86,7 +86,7 @@ Renseignez-la seul, en quinze à vingt minutes, ou en comité de direction. Dans
 <div class="quiz-section">
   <div class="quiz-section-titre">
     <span class="quiz-section-numero">B.</span>
-    <span class="quiz-section-label">Organisation et compétences<span class="quiz-section-sous">5 questions sur les ressources humaines et l'organisation de la fonction SI</span></span>
+    <span class="quiz-section-label">Organisation et compétences<span class="quiz-section-sous">5 questions sur les ressources humaines et l’organisation de la fonction SI</span></span>
   </div>
   <div class="quiz-question">
     <p class="quiz-question-texte"><span class="quiz-question-num">Q6.</span> La DSI porte explicitement ses trois mandats Run, Build, Vision, avec des ressources et indicateurs distincts pour chacun.</p>
@@ -98,7 +98,7 @@ Renseignez-la seul, en quinze à vingt minutes, ou en comité de direction. Dans
     </div>
   </div>
   <div class="quiz-question">
-    <p class="quiz-question-texte"><span class="quiz-question-num">Q7.</span> Le DSI participe au comité de direction et y exerce une voix d'arbitrage, pas seulement de reporting.</p>
+    <p class="quiz-question-texte"><span class="quiz-question-num">Q7.</span> Le DSI participe au comité de direction et y exerce une voix d’arbitrage, pas seulement de reporting.</p>
     <div class="quiz-reponses">
       <div class="quiz-reponse"><input type="radio" name="q7" id="q7-0" value="0"><label for="q7-0"><span class="quiz-reponse-libelle">Pas du tout</span><span class="reponse-score">0</span></label></div>
       <div class="quiz-reponse"><input type="radio" name="q7" id="q7-1" value="1"><label for="q7-1"><span class="quiz-reponse-libelle">En partie</span><span class="reponse-score">1</span></label></div>
@@ -116,7 +116,7 @@ Renseignez-la seul, en quinze à vingt minutes, ou en comité de direction. Dans
     </div>
   </div>
   <div class="quiz-question">
-    <p class="quiz-question-texte"><span class="quiz-question-num">Q9.</span> Un programme d'acculturation numérique pour le comité de direction et l'encadrement est en place, avec une mesure de progrès.</p>
+    <p class="quiz-question-texte"><span class="quiz-question-num">Q9.</span> Un programme d’acculturation numérique pour le comité de direction et l’encadrement est en place, avec une mesure de progrès.</p>
     <div class="quiz-reponses">
       <div class="quiz-reponse"><input type="radio" name="q9" id="q9-0" value="0"><label for="q9-0"><span class="quiz-reponse-libelle">Pas du tout</span><span class="reponse-score">0</span></label></div>
       <div class="quiz-reponse"><input type="radio" name="q9" id="q9-1" value="1"><label for="q9-1"><span class="quiz-reponse-libelle">En partie</span><span class="reponse-score">1</span></label></div>
@@ -140,7 +140,7 @@ Renseignez-la seul, en quinze à vingt minutes, ou en comité de direction. Dans
     <span class="quiz-section-label">Risques et conformité<span class="quiz-section-sous">5 questions sur cybersécurité, continuité, données, conformité réglementaire</span></span>
   </div>
   <div class="quiz-question">
-    <p class="quiz-question-texte"><span class="quiz-question-num">Q11.</span> Notre cartographie des risques numériques est revue annuellement et fait l'objet d'une délibération formelle au comité de direction.</p>
+    <p class="quiz-question-texte"><span class="quiz-question-num">Q11.</span> Notre cartographie des risques numériques est revue annuellement et fait l’objet d’une délibération formelle au comité de direction.</p>
     <div class="quiz-reponses">
       <div class="quiz-reponse"><input type="radio" name="q11" id="q11-0" value="0"><label for="q11-0"><span class="quiz-reponse-libelle">Pas du tout</span><span class="reponse-score">0</span></label></div>
       <div class="quiz-reponse"><input type="radio" name="q11" id="q11-1" value="1"><label for="q11-1"><span class="quiz-reponse-libelle">En partie</span><span class="reponse-score">1</span></label></div>
@@ -149,7 +149,7 @@ Renseignez-la seul, en quinze à vingt minutes, ou en comité de direction. Dans
     </div>
   </div>
   <div class="quiz-question">
-    <p class="quiz-question-texte"><span class="quiz-question-num">Q12.</span> Nous disposons d'un plan de gestion de crise cyber testé au moins une fois par an, avec mise en situation des dirigeants.</p>
+    <p class="quiz-question-texte"><span class="quiz-question-num">Q12.</span> Nous disposons d’un plan de gestion de crise cyber testé au moins une fois par an, avec mise en situation des dirigeants.</p>
     <div class="quiz-reponses">
       <div class="quiz-reponse"><input type="radio" name="q12" id="q12-0" value="0"><label for="q12-0"><span class="quiz-reponse-libelle">Pas du tout</span><span class="reponse-score">0</span></label></div>
       <div class="quiz-reponse"><input type="radio" name="q12" id="q12-1" value="1"><label for="q12-1"><span class="quiz-reponse-libelle">En partie</span><span class="reponse-score">1</span></label></div>
@@ -209,7 +209,7 @@ Renseignez-la seul, en quinze à vingt minutes, ou en comité de direction. Dans
     </div>
   </div>
   <div class="quiz-question">
-    <p class="quiz-question-texte"><span class="quiz-question-num">Q18.</span> Chaque projet SI majeur est doté d'un business case complet et fait l'objet d'un bilan post-projet formalisé.</p>
+    <p class="quiz-question-texte"><span class="quiz-question-num">Q18.</span> Chaque projet SI majeur est doté d’un business case complet et fait l’objet d’un bilan post-projet formalisé.</p>
     <div class="quiz-reponses">
       <div class="quiz-reponse"><input type="radio" name="q18" id="q18-0" value="0"><label for="q18-0"><span class="quiz-reponse-libelle">Pas du tout</span><span class="reponse-score">0</span></label></div>
       <div class="quiz-reponse"><input type="radio" name="q18" id="q18-1" value="1"><label for="q18-1"><span class="quiz-reponse-libelle">En partie</span><span class="reponse-score">1</span></label></div>
@@ -227,7 +227,7 @@ Renseignez-la seul, en quinze à vingt minutes, ou en comité de direction. Dans
     </div>
   </div>
   <div class="quiz-question">
-    <p class="quiz-question-texte"><span class="quiz-question-num">Q20.</span> La dette technique fait l'objet d'une mesure explicite et d'un plan de résorption discuté en comité de direction.</p>
+    <p class="quiz-question-texte"><span class="quiz-question-num">Q20.</span> La dette technique fait l’objet d’une mesure explicite et d’un plan de résorption discuté en comité de direction.</p>
     <div class="quiz-reponses">
       <div class="quiz-reponse"><input type="radio" name="q20" id="q20-0" value="0"><label for="q20-0"><span class="quiz-reponse-libelle">Pas du tout</span><span class="reponse-score">0</span></label></div>
       <div class="quiz-reponse"><input type="radio" name="q20" id="q20-1" value="1"><label for="q20-1"><span class="quiz-reponse-libelle">En partie</span><span class="reponse-score">1</span></label></div>
@@ -238,7 +238,7 @@ Renseignez-la seul, en quinze à vingt minutes, ou en comité de direction. Dans
 </div>
 <div class="resultat" id="resultat">
   <span class="resultat-kicker">Votre profil de maturité</span>
-  <h3 class="resultat-titre" id="resultat-titre">—</h3>
+  <h3 class="resultat-titre" id="resultat-titre">-</h3>
   <div><span class="resultat-score-num" id="resultat-score">0</span><span class="resultat-score-sur"> / 60 points</span></div>
   <div class="resultat-corps" id="resultat-corps"></div>
 </div>
@@ -249,7 +249,7 @@ Renseignez-la seul, en quinze à vingt minutes, ou en comité de direction. Dans
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Cette grille prolonge le chapitre 6, section « Grille d'auto-évaluation : où en est votre organisation ? ». Elle est aussi mobilisée en outil B de la conclusion. Pages à préciser à la parution.</p>
+<p>Cette grille prolonge le chapitre 6, section « Grille d’auto-évaluation : où en est votre organisation ? ». Elle est aussi mobilisée en outil B de la conclusion. Pages à préciser à la parution.</p>
 </div>
 
-<p class="disclaimer">L'auteur s'exprime à titre personnel. Cette grille n'engage aucune organisation. © 2026 Mehdi Moudden. Concepts protégés, dépôt INPI Soleau DSO2026014317.</p>
+<p class="disclaimer">L’auteur s’exprime à titre personnel. Cette grille n’engage aucune organisation. © 2026 Mehdi Moudden. Concepts protégés, dépôt INPI Soleau DSO2026014317.</p>

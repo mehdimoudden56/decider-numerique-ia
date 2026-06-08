@@ -3,9 +3,9 @@ site_url: https://decider-numerique-ia.fr/
 site_author: Mehdi Moudden
 site_description: >-
   Outils, ressources et veille en complément du livre « Gouverner le numérique
-  et l'IA sans être expert. Le guide du dirigeant qui décide sans subir ».
+  et l’IA sans être expert. Le guide du dirigeant qui décide sans subir ».
 copyright: >-
-  © 2026 Mehdi Moudden. L'auteur s'exprime à titre personnel.
+  © 2026 Mehdi Moudden. L’auteur s’exprime à titre personnel.
 
 # ----------------------------------------------------------------------------
 # THÈME
@@ -102,7 +102,7 @@ extra:
   social:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/mehdimoudden
-      name: LinkedIn de l'auteur
+      name: LinkedIn de l’auteur
   generator: false
 
 # ----------------------------------------------------------------------------
@@ -117,6 +117,9 @@ nav:
   - Outils:
       - Tous les outils: outils/index.md
       - Auto-évaluation en 20 questions: outils/auto-evaluation-gouvernance.md
+      - Documents que le dirigeant doit exiger: outils/documents-dirigeant.md
+      - Priorisation du portefeuille de projets: outils/priorisation-portefeuille.md
+      - Grille de maturité projet et exploitation: outils/grille-maturite-projet-exploitation.md
       - Conclusion outillée:
           - Grilles et check-lists (A): outils/check-list-maturite-si.md
           - Auto-diagnostic du dirigeant (B): outils/auto-diagnostic-dirigeant.md
@@ -153,14 +156,39 @@ nav:
           - Chapitre 14: outils/bonnes-questions-ch14.md
           - Chapitre 16: outils/bonnes-questions-ch16.md
 
-  - Articles: articles/index.md
-  - Cas: cas/index.md
+  - Articles:
+      - Tous les articles: articles/index.md
+      - Le SI selon la taille de l’organisation: articles/si-selon-taille-organisation.md
+      - Les marqueurs d’un SI mature: articles/marqueurs-si-mature.md
+      - Entretenir et développer sa culture SI: articles/culture-si-dirigeant.md
+      - La pluridisciplinarité de la filière: articles/pluridisciplinarite-filiere-si.md
+      - Choisir et séquencer ses cadres de référence: articles/par-ou-commencer-cadres-reference.md
+      - L’ERP, système nerveux en mutation: articles/erp-evolution.md
+      - Aux origines du livre:
+          - Le défi le plus difficile du management des SI: articles/genese-le-defi-epistemique.md
+          - La donnée comme empirisme moderne: articles/genese-la-donnee-et-empirisme.md
+          - La vraie nature de la numérisation: articles/genese-la-nature-de-la-numerisation.md
+      - L’explicabilité de l’IA: articles/explicabilite-de-l-ia.md
+      - Les grandes directions de l’IA: articles/grandes-directions-de-l-ia.md
+  - Cas:
+      - Tous les cas: cas/index.md
+      - Val d’Armorique: cas/val-d-armorique.md
   - Glossaire:
       - Tous les termes: glossaire/index.md
       - Glossaire essentiel: glossaire/glossaire-essentiel.md
   - Bibliographie: bibliographie/index.md
-  - Veille réglementaire: veille/index.md
-  - Concepts originaux: concepts-originaux/index.md
+  - Veille réglementaire:
+      - Toute la veille: veille/index.md
+      - Le cadre réglementaire numérique: veille/cadre-reglementaire-numerique.md
+  - Concepts originaux:
+      - Tous les concepts: concepts-originaux/index.md
+      - Les quatre défis épistémiques: concepts-originaux/quatre-defis-epistemiques.md
+      - Le DISDO: concepts-originaux/disdo.md
+      - La grille DISO: concepts-originaux/grille-diso.md
+      - Les quatre critères de qualité des données: concepts-originaux/qualite-donnees-quatre-criteres.md
+      - L’IT Scorecard adapté: concepts-originaux/it-scorecard-adapte.md
+      - Les sept convictions du praticien: concepts-originaux/sept-convictions.md
+      - La typologie des neuf cas: concepts-originaux/typologie-neuf-cas.md
   - Télécharger: telecharger.md
   - Contact: contact.md
   - Mentions légales: mentions-legales.md

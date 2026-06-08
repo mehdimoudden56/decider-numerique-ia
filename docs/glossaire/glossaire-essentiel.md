@@ -51,6 +51,6 @@ Ce glossaire couvre les termes utilisés dans cet ouvrage et les concepts que to
 | Zero Trust | Principe de sécurité fondé sur la méfiance systématique : aucun utilisateur, aucun appareil, aucun réseau n’est considéré comme fiable par défaut. Chaque accès est authentifié, autorisé et vérifié. Opposé au modèle historique de sécurité périmétrique. |
 
 !!! note "Glossaire complet"
-    Une version étendue du glossaire sera publiée sur ce site d’ici la parution du livre.
+    La version étendue, soit les 62 concepts couverts par le livre avec leur traduction managériale, est disponible sur la page [Tous les termes](index.md).
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

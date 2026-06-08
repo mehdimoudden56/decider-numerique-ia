@@ -1,8 +1,17 @@
 # Veille réglementaire
 
-Le suivi évolutif des principaux règlements : AI Act, NIS2, DORA, CSRD, Data Act, Cyber Resilience Act.
+Le suivi des principaux règlements européens qui encadrent le numérique : AI Act, NIS2, DORA, CSRD, Data Act, Cyber Resilience Act.
 
-!!! note "En cours de mise en ligne"
-    Cette rubrique sera enrichie progressivement d'ici la parution du livre.
+<div class="card-grid" markdown>
 
-<p class="disclaimer">L'auteur s'exprime à titre personnel. © 2026 Mehdi Moudden.</p>
+<div class="card" markdown>
+<span class="card-tag">Chapitre 4</span>
+### Le cadre réglementaire numérique
+Ce que tout dirigeant doit savoir des grands textes et de leurs obligations.
+
+[Lire le dossier](cadre-reglementaire-numerique.md)
+</div>
+
+</div>
+
+<p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>
