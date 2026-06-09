@@ -112,4 +112,96 @@ Repères durables sous le foisonnement des annonces.
 
 </div>
 
+## Regards complémentaires, prolongements récents (2025-2026)
+
+Des articles plus récents qui prolongent la thèse du livre sur la posture du dirigeant, postérieurs aux textes de genèse. Ils ne sont pas une série numérotée : chacun se lit indépendamment.
+
+<div class="card-grid" markdown>
+
+<div class="card" markdown>
+<span class="card-tag">LinkedIn · 2026</span>
+### La mauvaise question de la formation des dirigeants
+Pourquoi le défi du dirigeant est épistémique, pas technique.
+
+[Lire](formation-dirigeants-mauvaise-question.md)
+</div>
+
+<div class="card" markdown>
+<span class="card-tag">LinkedIn · 2026</span>
+### Qu’est-ce qu’un non-expert compétent ?
+Nommer la posture intermédiaire qui manque à notre vocabulaire.
+
+[Lire](non-expert-competent.md)
+</div>
+
+<div class="card" markdown>
+<span class="card-tag">LinkedIn · 2026</span>
+### Le consultant, le technicien et le dirigeant
+Trois rationalités légitimes et incompatibles en comité.
+
+[Lire](trois-rationalites.md)
+</div>
+
+</div>
+
+La série en trois volets « Les trois malentendus de l’IA générative », un regard plus critique sur les dispositifs de gouvernance que le chapitre 13 prescrit :
+
+<div class="card-grid" markdown>
+
+<div class="card" markdown>
+<span class="card-tag">IA générative · 1/3</span>
+### La nature de l’outil
+Un modèle génératif n’est pas un calcul, c’est une production.
+
+[Lire](malentendus-ia-1-nature.md)
+</div>
+
+<div class="card" markdown>
+<span class="card-tag">IA générative · 2/3</span>
+### Le type de tâche délégable
+Trois axes, et une combinaison contre-intuitive.
+
+[Lire](malentendus-ia-2-taches.md)
+</div>
+
+<div class="card" markdown>
+<span class="card-tag">IA générative · 3/3</span>
+### La gouvernance
+Pourquoi les dispositifs classiques restent cosmétiques.
+
+[Lire](malentendus-ia-3-gouvernance.md)
+</div>
+
+</div>
+
+Et trois autres regards récents, sur la gouvernance, le code et l’échec des projets :
+
+<div class="card-grid" markdown>
+
+<div class="card" markdown>
+<span class="card-tag">LinkedIn · 2026</span>
+### L’IA et les failles de la gouvernance
+L’IA ne crée pas les failles, elle les révèle.
+
+[Lire](ia-et-failles-de-gouvernance.md)
+</div>
+
+<div class="card" markdown>
+<span class="card-tag">LinkedIn · 2026</span>
+### La dette cognitive de l’IA dans le code
+Générer du code sans en construire le modèle mental.
+
+[Lire](dette-cognitive-ia.md)
+</div>
+
+<div class="card" markdown>
+<span class="card-tag">LinkedIn · 2026</span>
+### Pourquoi tant de projets informatiques échouent
+Un projet échoue rarement sur la seule technique.
+
+[Lire](pourquoi-projets-it-echouent.md)
+</div>
+
+</div>
+
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>
