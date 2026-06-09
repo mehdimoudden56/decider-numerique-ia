@@ -1,35 +1,28 @@
 name: Déploiement du site
-
 on:
   push:
     branches:
       - main
   workflow_dispatch:
-
 permissions:
   contents: read
   pages: write
   id-token: write
-
 concurrency:
   group: pages
   cancel-in-progress: false
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Récupération du dépôt
-        uses: actions/checkout@v4
-
+        uses: actions/checkout@v5        # était @v4 (Node 20 -> Node 24)
       - name: Installation de Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6    # était @v5 (Node 20 -> Node 24)
         with:
           python-version: '3.12'
-
       - name: Installation des dépendances
         run: pip install -r requirements.txt
-
       - name: Injection du mot de passe des ressources réservées
         env:
           SITE_PASSWORD: ${{ secrets.SITE_PASSWORD }}
@@ -37,15 +30,12 @@ jobs:
           MOT_DE_PASSE="${SITE_PASSWORD:-gouverner-2027}"
           sed -i "s/__SITE_PASSWORD__/${MOT_DE_PASSE}/" docs/telecharger.md
           echo "Mot de passe injecte dans la page de telechargement."
-
       - name: Build du site
         run: mkdocs build --strict --site-dir _site
-
       - name: Upload de l'artefact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v3   # dernier tag majeur ; warning interne = côté GitHub
         with:
           path: _site
-
   deploy:
     needs: build
     runs-on: ubuntu-latest
@@ -55,4 +45,4 @@ jobs:
     steps:
       - name: Déploiement sur GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v4            # dernier tag majeur ; Node 24 pas encore publié côté GitHub
