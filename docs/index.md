@@ -6,9 +6,9 @@ hide:
 
 <div class="hero" markdown>
 
-# Décider numérique et IA
+# Gouverner le numérique et l’IA sans être expert
 
-<p class="hero-lede">Les outils et ressources qui prolongent le livre, pour le dirigeant qui décide sans subir.</p>
+<p class="hero-lede">Le guide du dirigeant qui décide sans subir. Les outils et ressources qui prolongent le livre.</p>
 
 </div>
 
