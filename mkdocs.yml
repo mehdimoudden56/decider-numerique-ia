@@ -101,7 +101,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/mehdimoudden
+      link: https://www.linkedin.com/in/mehdi-moudden-3a01481/
       name: LinkedIn de l’auteur
   generator: false
 
