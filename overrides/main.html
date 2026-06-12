@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{#
+  Mesure d'audience GoatCounter (sans cookie).
+  Compatible avec la fonctionnalite navigation.instant de Material :
+  count.js compte automatiquement le premier chargement ; les navigations
+  instantanees suivantes sont comptees via l'observable document$ de Material.
+#}
+{% block extrahead %}
+  {{ super() }}
+  <script data-goatcounter="https://decidernumeriqueia.goatcounter.com/count"
+          async src="//gc.zgo.at/count.js"></script>
+  <script>
+    (function () {
+      var premier = true;
+      if (typeof document$ !== "undefined") {
+        document$.subscribe(function () {
+          if (premier) { premier = false; return; }
+          if (window.goatcounter && window.goatcounter.count) {
+            window.goatcounter.count({
+              path: location.pathname + location.search + location.hash
+            });
+          }
+        });
+      }
+    })();
+  </script>
+{% endblock %}
