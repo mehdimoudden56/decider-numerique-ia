@@ -1,3 +1,7 @@
+---
+description: "Modèles de tableaux de bord et de comités SI : conjuguer une synthèse lisible en cinq minutes et une précision suffisante pour décider."
+---
+
 <span class="kicker">Conclusion outillée · Outil C</span>
 
 # Modèles de tableaux de bord et de comités

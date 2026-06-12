@@ -1,3 +1,7 @@
+---
+description: "Les bonnes questions du chapitre 16 : comprendre ce que la révolution numérique change vraiment dans son industrie et son modèle."
+---
+
 <span class="kicker">Outil · Chapitre 16</span>
 
 # Les bonnes questions à poser, chapitre 16

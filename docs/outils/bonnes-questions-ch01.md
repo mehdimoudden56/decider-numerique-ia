@@ -1,3 +1,7 @@
+---
+description: "Les bonnes questions du chapitre 1 : tester la résilience du SI, les scénarios d’indisponibilité et la préparation aux crises."
+---
+
 <span class="kicker">Outil · Chapitre 1</span>
 
 # Les bonnes questions à poser, chapitre 1

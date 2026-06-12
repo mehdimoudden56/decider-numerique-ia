@@ -1,3 +1,7 @@
+---
+description: "L’ERP, colonne vertébrale et point de friction de l’entreprise depuis trente ans : où en est sa mutation et ce que le dirigeant doit en attendre."
+---
+
 <span class="kicker">Article</span>
 
 # L’ERP comme système nerveux de l’entreprise : la mutation en cours

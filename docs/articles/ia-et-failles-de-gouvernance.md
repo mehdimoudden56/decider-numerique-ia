@@ -1,3 +1,7 @@
+---
+description: "L’IA ne crée pas les failles de gouvernance, elle les révèle. Relecture d’une enquête du New York Times sous l’angle de la gouvernance."
+---
+
 <span class="kicker">Regards complémentaires</span>
 
 # L’IA ne crée pas les failles de gouvernance, elle les révèle

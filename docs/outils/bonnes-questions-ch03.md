@@ -1,3 +1,7 @@
+---
+description: "Les bonnes questions du chapitre 3 : situer sa maturité data-IA et juger honnêtement la qualité de ses données stratégiques."
+---
+
 <span class="kicker">Outil · Chapitre 3</span>
 
 # Les bonnes questions à poser, chapitre 3

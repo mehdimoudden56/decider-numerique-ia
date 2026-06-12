@@ -1,3 +1,7 @@
+---
+description: "Auto-évaluation de la gouvernance numérique en 20 questions, sur quatre dimensions : stratégie, organisation, risques et valeur."
+---
+
 <span class="kicker">Outil phare · Grille d’auto-diagnostic</span>
 # Auto-évaluation de la gouvernance numérique en 20 questions
 <div class="meta-card" markdown>

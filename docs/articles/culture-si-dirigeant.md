@@ -1,3 +1,7 @@
+---
+description: "Comment un dirigeant entretient et met à jour sa culture SI dans un domaine mouvant : le vrai défi n’est pas technique, il est épistémique."
+---
+
 <span class="kicker">Article</span>
 
 # Comment entretenir et développer sa culture SI

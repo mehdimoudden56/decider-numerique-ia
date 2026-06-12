@@ -1,3 +1,7 @@
+---
+description: "Consultant, technicien, dirigeant : trois rationalités qui s’affrontent en comité de transformation, et comment les faire dialoguer."
+---
+
 <span class="kicker">Regards complémentaires</span>
 
 # Le consultant, le technicien et le dirigeant : trois rationalités incompatibles

@@ -1,3 +1,7 @@
+---
+description: "Les outils du dirigeant : grilles, check-lists, questions à poser et modèles, conçus pour un usage direct, seul ou en comité de direction."
+---
+
 # Les outils du dirigeant
 
 Grilles, check-lists, questions à poser, modèles. Chaque outil est conçu pour être utilisé directement, seul ou en comité de direction.

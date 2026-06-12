@@ -1,3 +1,7 @@
+---
+description: "Action concrète pour le chapitre 7 : noter de 1 à 5 les sept dimensions de la gouvernance numérique avec sa DSI."
+---
+
 <span class="kicker">Outil · Chapitre 7</span>
 
 # Action dans les 30 jours, chapitre 7

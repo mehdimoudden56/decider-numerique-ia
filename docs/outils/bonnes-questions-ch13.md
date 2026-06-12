@@ -1,3 +1,7 @@
+---
+description: "Les bonnes questions du chapitre 13 : politique IA formalisée, usages autorisés et mise à jour au fil de la réglementation."
+---
+
 <span class="kicker">Outil · Chapitre 13</span>
 
 # Les bonnes questions à poser, chapitre 13

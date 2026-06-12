@@ -1,3 +1,7 @@
+---
+description: "Les bonnes questions du chapitre 11 : la part de la dette technique dans le TCO et un plan de résorption avec horizon et ressources."
+---
+
 <span class="kicker">Outil · Chapitre 11</span>
 
 # Les bonnes questions à poser, chapitre 11

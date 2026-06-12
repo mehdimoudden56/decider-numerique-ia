@@ -1,3 +1,7 @@
+---
+description: "Les bonnes questions du chapitre 10 : le portage réel des transformations SI par la direction générale, sponsor nommé et gouvernance dédiée."
+---
+
 <span class="kicker">Outil · Chapitre 10</span>
 
 # Les bonnes questions à poser, chapitre 10

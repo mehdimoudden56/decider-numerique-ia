@@ -1,3 +1,7 @@
+---
+description: "Les sept convictions de praticien qui traversent le livre : non des théorèmes, mais des principes qui s’éprouvent au fil des chapitres."
+---
+
 <span class="kicker">Concept original</span>
 
 # Les sept convictions du praticien

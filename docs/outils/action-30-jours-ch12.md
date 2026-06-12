@@ -1,3 +1,7 @@
+---
+description: "Action concrète pour le chapitre 12 : organiser avec son RSSI un exercice sur table de 90 minutes simulant un rançongiciel."
+---
+
 <span class="kicker">Outil · Chapitre 12</span>
 
 # Action dans les 30 jours, chapitre 12

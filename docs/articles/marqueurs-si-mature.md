@@ -1,3 +1,7 @@
+---
+description: "À quoi ressemble concrètement un SI mature, et un SI immature : les marqueurs pratiques pour situer son organisation."
+---
+
 <span class="kicker">Article</span>
 
 # Vers un SI mature : ce que cela signifie concrètement

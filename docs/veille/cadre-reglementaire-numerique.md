@@ -1,3 +1,7 @@
+---
+description: "Le cadre réglementaire numérique que tout dirigeant doit connaître : RGPD, NIS2, DORA, AI Act, Data Act et les obligations qui en découlent."
+---
+
 <span class="kicker">Veille réglementaire</span>
 
 # Le cadre réglementaire numérique : ce que tout dirigeant doit savoir

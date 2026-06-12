@@ -1,3 +1,7 @@
+---
+description: "Les quatre défis épistémiques du dirigeant : où se loge le défaut quand un projet SI ou IA déraille. Thèse centrale du livre."
+---
+
 <span class="kicker">Concept original</span>
 
 # Les quatre défis épistémiques du dirigeant

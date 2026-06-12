@@ -1,3 +1,7 @@
+---
+description: "Repères pour dirigeants sur les grandes directions de l’IA : des progrès incrémentaux aux systèmes qui raisonnent, planifient et agissent."
+---
+
 <span class="kicker">Article</span>
 
 # Les grandes directions de l’IA, repères pour dirigeants

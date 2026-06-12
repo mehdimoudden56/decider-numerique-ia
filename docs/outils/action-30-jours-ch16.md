@@ -1,3 +1,7 @@
+---
+description: "Action concrète pour le chapitre 16 : choisir une décision numérique importante des six prochains mois et la préparer méthodiquement."
+---
+
 <span class="kicker">Outil · Chapitre 16</span>
 
 # Action dans les 30 jours, chapitre 16

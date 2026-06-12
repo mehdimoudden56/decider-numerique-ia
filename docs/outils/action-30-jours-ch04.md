@@ -1,3 +1,7 @@
+---
+description: "Action concrète pour le chapitre 4 : demander à sa DSI ce qu’elle sacrifierait d’abord en cas de baisse de 20 % du budget SI, et les risques."
+---
+
 <span class="kicker">Outil · Chapitre 4</span>
 
 # Action dans les 30 jours, chapitre 4

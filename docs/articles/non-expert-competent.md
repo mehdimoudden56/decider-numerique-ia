@@ -1,3 +1,7 @@
+---
+description: "Qu’est-ce qu’un non-expert compétent ? Penser une posture intermédiaire entre l’ignorance et l’expertise, au cœur de la thèse du livre."
+---
+
 <span class="kicker">Regards complémentaires</span>
 
 # Qu’est-ce qu’un non-expert compétent ?

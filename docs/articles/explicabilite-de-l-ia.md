@@ -1,3 +1,7 @@
+---
+description: "L’explicabilité de l’IA : comprendre comment un modèle décide, un enjeu de confiance et de gouvernance pour l’entreprise et la société."
+---
+
 <span class="kicker">Article</span>
 
 # L’explicabilité de l’IA, un enjeu pour l’entreprise et la société

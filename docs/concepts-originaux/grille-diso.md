@@ -1,3 +1,7 @@
+---
+description: "La grille DISO : une auto-évaluation comportementale du dirigeant face au numérique. Là où l’architecture interroge le SI, DISO interroge le dirigeant."
+---
+
 <span class="kicker">Concept original</span>
 
 # La grille DISO, auto-évaluation du dirigeant augmenté

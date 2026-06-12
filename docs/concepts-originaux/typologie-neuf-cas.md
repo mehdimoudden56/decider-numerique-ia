@@ -1,3 +1,7 @@
+---
+description: "La typologie épistémique des neuf cas : quatre points de défaillance récurrents quand un projet numérique échoue."
+---
+
 <span class="kicker">Concept original</span>
 
 # La typologie épistémique des neuf cas

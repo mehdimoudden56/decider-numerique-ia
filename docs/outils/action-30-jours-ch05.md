@@ -1,3 +1,7 @@
+---
+description: "Action concrète pour le chapitre 5 : identifier avec sa DSI les deux ou trois profils manquants pour lancer la transformation la plus ambitieuse."
+---
+
 <span class="kicker">Outil · Chapitre 5</span>
 
 # Action dans les 30 jours, chapitre 5

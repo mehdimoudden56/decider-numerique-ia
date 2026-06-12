@@ -1,3 +1,7 @@
+---
+description: "Que doit savoir un dirigeant de la technique ? C’est la mauvaise question, et elle produit de mauvaises décisions. Reformulation du problème."
+---
+
 <span class="kicker">Regards complémentaires</span>
 
 # La mauvaise question de la formation des dirigeants

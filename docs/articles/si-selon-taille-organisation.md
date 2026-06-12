@@ -1,3 +1,7 @@
+---
+description: "Le SI selon la taille de l’organisation : ce qui distingue les défis d’une TPE de ceux d’un grand groupe, à principes constants."
+---
+
 <span class="kicker">Article</span>
 
 # Le SI selon la taille de l’organisation

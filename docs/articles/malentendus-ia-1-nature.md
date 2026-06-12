@@ -1,3 +1,7 @@
+---
+description: "Premier malentendu de l’IA générative : traiter un modèle de langage comme un logiciel ordinaire condamne d’avance les décisions qui suivent."
+---
+
 <span class="kicker">Regards complémentaires · IA générative</span>
 
 # Premier malentendu de l’IA générative : la nature de l’outil

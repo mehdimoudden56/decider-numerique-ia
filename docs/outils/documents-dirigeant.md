@@ -1,3 +1,7 @@
+---
+description: "Les documents et indicateurs que tout dirigeant doit pouvoir lire et exiger de sa DSI : le tableau de bord minimal d’une gouvernance saine."
+---
+
 <span class="kicker">Outil · Repères</span>
 
 # Les documents que tout dirigeant doit pouvoir lire et exiger

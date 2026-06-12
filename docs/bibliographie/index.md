@@ -1,3 +1,7 @@
+---
+description: "Bibliographie commentée pour prolonger le livre, organisée par profil de dirigeant et privilégiant l’utilité directe pour chaque rôle."
+---
+
 # Bibliographie commentée
 
 Une sélection de lectures pour prolonger le livre, organisée par profil de dirigeant. Les recommandations ne visent pas l’exhaustivité : elles privilégient l’utilité directe pour chaque rôle. La bibliographie académique complète figure dans le livre.

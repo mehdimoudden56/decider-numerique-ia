@@ -1,3 +1,7 @@
+---
+description: "Glossaire complet de 62 concepts du numérique et de l’IA, avec définition courte et traduction managériale pour le dirigeant non expert."
+---
+
 <span class="kicker">Glossaire</span>
 
 # Glossaire complet : 62 concepts du numérique et de l’IA

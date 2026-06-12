@@ -1,3 +1,7 @@
+---
+description: "La priorisation du portefeuille de projets SI : pourquoi c’est le rôle incontournable du dirigeant et où se révèle la qualité de la gouvernance."
+---
+
 <span class="kicker">Outil · Méthode</span>
 
 # La priorisation du portefeuille de projets : le rôle incontournable du dirigeant

@@ -1,3 +1,7 @@
+---
+description: "Aux origines du livre : comment l’idée de la donnée comme empirisme moderne a mûri sur le terrain avant d’être formalisée."
+---
+
 <span class="kicker">Aux origines du livre</span>
 
 # La donnée comme empirisme moderne

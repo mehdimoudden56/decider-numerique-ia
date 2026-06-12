@@ -1,3 +1,7 @@
+---
+description: "Action concrète pour le chapitre 3 : un atelier pour identifier l’entité de données la plus stratégique de l’organisation et sa qualité réelle."
+---
+
 <span class="kicker">Outil · Chapitre 3</span>
 
 # Action dans les 30 jours, chapitre 3

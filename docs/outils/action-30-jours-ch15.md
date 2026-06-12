@@ -1,3 +1,7 @@
+---
+description: "Action concrète pour le chapitre 15 : faire présenter par DSI et RSSI un état des lieux sur deux des six grandes tendances pertinentes."
+---
+
 <span class="kicker">Outil · Chapitre 15</span>
 
 # Action dans les 30 jours, chapitre 15

@@ -1,3 +1,7 @@
+---
+description: "Les bonnes questions du chapitre 6 : exiger pour chaque projet SI un dossier économique co-élaboré avec le métier et des bénéfices chiffrés."
+---
+
 <span class="kicker">Outil · Chapitre 6</span>
 
 # Les bonnes questions à poser, chapitre 6

@@ -1,3 +1,7 @@
+---
+description: "Action concrète pour le chapitre 6 : faire produire un tableau de bord de la répartition du budget SI entre Run, Change et Build."
+---
+
 <span class="kicker">Outil · Chapitre 6</span>
 
 # Action dans les 30 jours, chapitre 6

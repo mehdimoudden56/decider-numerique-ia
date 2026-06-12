@@ -1,3 +1,7 @@
+---
+description: "La pluridisciplinarité, nouveau standard de la filière SI : pourquoi les profils hybrides supplantent les spécialistes purs."
+---
+
 <span class="kicker">Article</span>
 
 # La pluridisciplinarité, nouveau standard de la filière

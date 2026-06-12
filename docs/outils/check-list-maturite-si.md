@@ -1,3 +1,7 @@
+---
+description: "Grilles de lecture et check-lists, instruments de discernement pour le dirigeant : vérifier que l’organisation maîtrise ses fondamentaux SI."
+---
+
 <span class="kicker">Conclusion outillée · Outil A</span>
 
 # Grilles de lecture et check-lists

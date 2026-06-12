@@ -1,3 +1,7 @@
+---
+description: "Les bonnes questions du chapitre 12 : évaluation des risques cyber, actifs critiques, menaces probables et mise à jour régulière."
+---
+
 <span class="kicker">Outil · Chapitre 12</span>
 
 # Les bonnes questions à poser, chapitre 12

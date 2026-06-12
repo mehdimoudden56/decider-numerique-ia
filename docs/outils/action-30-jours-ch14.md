@@ -1,3 +1,7 @@
+---
+description: "Action concrète pour le chapitre 14 : faire construire un tableau de bord SI de cinq indicateurs, fiabilité, finances, valeur et risque."
+---
+
 <span class="kicker">Outil · Chapitre 14</span>
 
 # Action dans les 30 jours, chapitre 14

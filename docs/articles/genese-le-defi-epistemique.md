@@ -1,3 +1,7 @@
+---
+description: "Aux origines du livre : pourquoi le défi le plus difficile du management des SI est épistémique, et non technique."
+---
+
 <span class="kicker">Aux origines du livre</span>
 
 # Le défi le plus difficile du management des SI

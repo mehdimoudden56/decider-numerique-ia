@@ -1,3 +1,7 @@
+---
+description: "Quatre critères pour interroger la qualité d’un jeu de données avant d’industrialiser un usage analytique ou une IA."
+---
+
 <span class="kicker">Concept original</span>
 
 # Les quatre critères de qualité des données

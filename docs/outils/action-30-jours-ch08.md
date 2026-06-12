@@ -1,3 +1,7 @@
+---
+description: "Action concrète pour le chapitre 8 : faire expliciter en une page les mandats de la DSI, leurs résultats attendus et leurs indicateurs."
+---
+
 <span class="kicker">Outil · Chapitre 8</span>
 
 # Action dans les 30 jours, chapitre 8

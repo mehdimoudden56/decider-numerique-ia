@@ -1,3 +1,7 @@
+---
+description: "Coder avec l’IA fait gagner du temps mais érode la théorie partagée du programme. Lecture de Peter Naur appliquée à la dette cognitive."
+---
+
 <span class="kicker">Regards complémentaires</span>
 
 # La dette cognitive de l’IA dans le code

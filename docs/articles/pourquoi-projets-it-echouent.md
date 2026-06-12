@@ -1,3 +1,7 @@
+---
+description: "Dépassements, retards, résultats décevants : pourquoi tant de projets informatiques échouent, et ce que le défaut révèle vraiment."
+---
+
 <span class="kicker">Regards complémentaires</span>
 
 # Pourquoi tant de projets informatiques échouent

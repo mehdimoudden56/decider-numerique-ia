@@ -1,4 +1,5 @@
 ---
+description: "Outils, grilles, cas, glossaire et veille qui prolongent le livre « Gouverner le numérique et l’IA sans être expert », pour décider sans subir."
 hide:
   - navigation
   - toc

@@ -1,3 +1,7 @@
+---
+description: "Action concrète pour le chapitre 2 : se faire présenter l’état de santé du SI, ses fragilités, sa dette technique et sa sécurité."
+---
+
 <span class="kicker">Outil · Chapitre 2</span>
 
 # Action dans les 30 jours, chapitre 2

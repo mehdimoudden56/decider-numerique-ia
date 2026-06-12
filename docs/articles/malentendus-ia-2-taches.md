@@ -1,3 +1,7 @@
+---
+description: "Deuxième malentendu de l’IA générative : quelles tâches lui confier ? L’intuition dominante mène souvent à l’inverse de ce qui crée de la valeur."
+---
+
 <span class="kicker">Regards complémentaires · IA générative</span>
 
 # Deuxième malentendu de l’IA générative : le type de tâche délégable

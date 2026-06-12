@@ -1,3 +1,7 @@
+---
+description: "Par où commencer face aux cadres de référence comme ITIL ou COBIT : comment les choisir et les séquencer sans se disperser."
+---
+
 <span class="kicker">Article</span>
 
 # Par où commencer, choisir et séquencer ses cadres de référence

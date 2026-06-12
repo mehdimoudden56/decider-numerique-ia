@@ -1,3 +1,7 @@
+---
+description: "Action concrète pour le chapitre 13 : poser trois questions sur la valeur réelle des projets IA en cours et leur adoption quotidienne."
+---
+
 <span class="kicker">Outil · Chapitre 13</span>
 
 # Action dans les 30 jours, chapitre 13

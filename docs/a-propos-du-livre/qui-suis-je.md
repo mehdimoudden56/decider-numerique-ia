@@ -1,3 +1,7 @@
+---
+description: "Mehdi Moudden, dirigeant des systèmes d’information à l’échelle européenne et ancien consultant en stratégie, auteur du livre."
+---
+
 # Qui suis-je
 
 Mehdi Moudden exerce des responsabilités de direction des systèmes d’information à l’échelle européenne. Il a auparavant été consultant en stratégie.

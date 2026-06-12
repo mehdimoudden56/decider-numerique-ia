@@ -1,3 +1,7 @@
+---
+description: "L’IT Scorecard adapté : piloter le système d’information sur quatre axes complémentaires plutôt que par son seul coût."
+---
+
 <span class="kicker">Concept original</span>
 
 # L’IT Scorecard adapté

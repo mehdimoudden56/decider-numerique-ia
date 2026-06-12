@@ -1,3 +1,7 @@
+---
+description: "Les bonnes questions du chapitre 9 : un schéma directeur vivant, sa dernière révision et son usage réel en arbitrage."
+---
+
 <span class="kicker">Outil · Chapitre 9</span>
 
 # Les bonnes questions à poser, chapitre 9

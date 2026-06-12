@@ -1,3 +1,7 @@
+---
+description: "Les bonnes questions du chapitre 4 : langage partagé entre DSI et direction générale, et accessibilité des présentations SI."
+---
+
 <span class="kicker">Outil · Chapitre 4</span>
 
 # Les bonnes questions à poser, chapitre 4

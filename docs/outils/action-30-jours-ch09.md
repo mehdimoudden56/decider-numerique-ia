@@ -1,3 +1,7 @@
+---
+description: "Action concrète pour le chapitre 9 : obtenir l’état factuel de la cartographie SI, de la santé des applications critiques et des dépendances."
+---
+
 <span class="kicker">Outil · Chapitre 9</span>
 
 # Action dans les 30 jours, chapitre 9

@@ -1,3 +1,7 @@
+---
+description: "Val d’Armorique, cas pédagogique fictif : comment ouvrir un comité numérique stratégique. Illustration du chapitre 9 du livre."
+---
+
 <span class="kicker">Cas pédagogique</span>
 
 # Val d’Armorique : ouvrir un comité numérique stratégique

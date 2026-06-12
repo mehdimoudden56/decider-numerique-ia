@@ -1,3 +1,7 @@
+---
+description: "Les bonnes questions du chapitre 14 : savoir articuler soi-même l’ambition numérique de son organisation à trois ans."
+---
+
 <span class="kicker">Outil · Chapitre 14</span>
 
 # Les bonnes questions à poser, chapitre 14

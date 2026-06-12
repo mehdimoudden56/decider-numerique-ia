@@ -1,3 +1,7 @@
+---
+description: "Troisième malentendu de l’IA générative : gouverner une production sous contrainte statistique, et non un calcul déterministe."
+---
+
 <span class="kicker">Regards complémentaires · IA générative</span>
 
 # Troisième malentendu de l’IA générative : la gouvernance

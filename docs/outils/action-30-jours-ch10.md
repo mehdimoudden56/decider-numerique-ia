@@ -1,3 +1,7 @@
+---
+description: "Action concrète pour le chapitre 10 : passer chaque projet SI majeur au crible de cinq questions clés, du sponsor métier aux risques."
+---
+
 <span class="kicker">Outil · Chapitre 10</span>
 
 # Action dans les 30 jours, chapitre 10

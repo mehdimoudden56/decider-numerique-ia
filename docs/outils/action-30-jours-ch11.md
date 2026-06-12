@@ -1,3 +1,7 @@
+---
+description: "Action concrète pour le chapitre 11 : faire établir par DSI et DAF un état du budget IT, des dépenses hors DSI et de la dette technique."
+---
+
 <span class="kicker">Outil · Chapitre 11</span>
 
 # Action dans les 30 jours, chapitre 11

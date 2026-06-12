@@ -1,3 +1,7 @@
+---
+description: "Le DISDO, Délégué SI du Domaine : un rôle de tiers de confiance entre direction métier et filière SI pour rendre possibles les arbitrages."
+---
+
 <span class="kicker">Concept original</span>
 
 # Le DISDO, Délégué SI du Domaine

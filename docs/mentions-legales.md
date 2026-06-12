@@ -1,3 +1,7 @@
+---
+description: "Mentions légales du site : éditeur, hébergement, nom de domaine, propriété intellectuelle et traitement des données personnelles."
+---
+
 # Mentions légales
 
 ## Éditeur
@@ -9,6 +13,10 @@ Contact : [contact@decider-numerique-ia.fr](mailto:contact@decider-numerique-ia.
 ## Hébergement
 
 Site hébergé par GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis.
+
+## Nom de domaine
+
+Le nom de domaine decider-numerique-ia.fr et la zone DNS associée sont gérés via OVHcloud (OVH SAS, 2 rue Kellermann, 59100 Roubaix, France ; RCS Lille Métropole 424 761 419). L’hébergement des pages reste assuré par GitHub, Inc. (voir ci-dessus).
 
 ## Propriété intellectuelle
 

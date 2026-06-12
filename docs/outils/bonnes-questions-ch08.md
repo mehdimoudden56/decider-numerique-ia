@@ -1,3 +1,7 @@
+---
+description: "Les bonnes questions du chapitre 8 : instance de pilotage stratégique du SI, sa fréquence et la réalité des arbitrages numériques majeurs."
+---
+
 <span class="kicker">Outil · Chapitre 8</span>
 
 # Les bonnes questions à poser, chapitre 8

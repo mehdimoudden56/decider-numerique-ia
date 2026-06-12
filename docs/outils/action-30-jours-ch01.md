@@ -1,3 +1,7 @@
+---
+description: "Action concrète pour le chapitre 1 : organiser une revue de crise SI fictive avec son comité pour tester une indisponibilité de 48 heures."
+---
+
 <span class="kicker">Outil · Chapitre 1</span>
 
 # Action dans les 30 jours, chapitre 1
