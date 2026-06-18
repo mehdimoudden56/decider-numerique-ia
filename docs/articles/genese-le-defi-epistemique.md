@@ -1,7 +1,3 @@
----
-description: "Aux origines du livre : pourquoi le défi le plus difficile du management des SI est épistémique, et non technique."
----
-
 <span class="kicker">Aux origines du livre</span>
 
 # Le défi le plus difficile du management des SI
@@ -16,7 +12,7 @@ C’est cette idée, mûrie puis formalisée ici, qui s’est ensuite structuré
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>La thèse ouvre le chapitre 1, « Toute organisation est désormais une organisation technologique ». Page à préciser à la parution.</p>
+<p>La thèse ouvre le chapitre 1, « Toute organisation est désormais une organisation technologique ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

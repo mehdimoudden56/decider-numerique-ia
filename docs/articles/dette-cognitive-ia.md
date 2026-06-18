@@ -1,7 +1,3 @@
----
-description: "Coder avec l’IA fait gagner du temps mais érode la théorie partagée du programme. Lecture de Peter Naur appliquée à la dette cognitive."
----
-
 <span class="kicker">Regards complémentaires</span>
 
 # La dette cognitive de l’IA dans le code
@@ -20,7 +16,7 @@ Le vrai défi qui vient n’est pas seulement d’écrire un meilleur code avec 
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Le chapitre 13, dans sa section sur ce que l’intelligence artificielle ne change pas, rappelle qu’une organisation qui cesse de maintenir vivante sa connaissance laisse ses systèmes intelligents devenir des boîtes noires incontrôlables. Préserver et pérenniser cette connaissance est l’une des quatre dimensions de la thèse du livre. Page à préciser à la parution.</p>
+<p>Le chapitre 13, dans sa section sur ce que l’intelligence artificielle ne change pas, rappelle qu’une organisation qui cesse de maintenir vivante sa connaissance laisse ses systèmes intelligents devenir des boîtes noires incontrôlables. Préserver et pérenniser cette connaissance est l’une des quatre dimensions de la thèse du livre.</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

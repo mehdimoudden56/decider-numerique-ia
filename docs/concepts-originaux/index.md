@@ -1,7 +1,3 @@
----
-description: "Les concepts originaux formalisés par le livre, déposés à l’INPI sous enveloppe Soleau DSO2026014317, présentés ici dans leurs grandes lignes."
----
-
 # Concepts originaux
 
 Les concepts que ce livre formalise. Chacun est déposé à l’INPI sous enveloppe Soleau (DSO2026014317) et présenté ici dans ses grandes lignes ; le traitement complet, les exemples et les barèmes figurent dans l’ouvrage.

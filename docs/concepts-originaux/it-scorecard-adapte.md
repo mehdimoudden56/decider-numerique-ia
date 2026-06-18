@@ -1,7 +1,3 @@
----
-description: "L’IT Scorecard adapté : piloter le système d’information sur quatre axes complémentaires plutôt que par son seul coût."
----
-
 <span class="kicker">Concept original</span>
 
 # L’IT Scorecard adapté
@@ -19,7 +15,7 @@ Le livre précise, pour chaque axe, des indicateurs représentatifs et leurs seu
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Les axes et leurs indicateurs sont détaillés au le chapitre 11, « Performance économique du SI : piloter les coûts, mesurer la valeur ». Page à préciser à la parution.</p>
+<p>Les axes et leurs indicateurs sont détaillés au le chapitre 11, « Performance économique du SI : piloter les coûts, mesurer la valeur ».</p>
 </div>
 
 !!! note "Concept original"

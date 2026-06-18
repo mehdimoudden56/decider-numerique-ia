@@ -1,7 +1,3 @@
----
-description: "Les bonnes questions du chapitre 9 : un schéma directeur vivant, sa dernière révision et son usage réel en arbitrage."
----
-
 <span class="kicker">Outil · Chapitre 9</span>
 
 # Les bonnes questions à poser, chapitre 9
@@ -35,7 +31,7 @@ description: "Les bonnes questions du chapitre 9 : un schéma directeur vivant,
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Ces questions prolongent le chapitre 9, « Piloter la transformation, SDSI vivant, instances et conduite du changement ». Page à préciser à la parution.</p>
+<p>Ces questions prolongent le chapitre 9, « Piloter la transformation, SDSI vivant, instances et conduite du changement ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

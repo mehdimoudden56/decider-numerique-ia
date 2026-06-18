@@ -1,7 +1,3 @@
----
-description: "Pourquoi un guide de plus ? Parce que la littérature numérique s’adresse aux experts ou survole les sujets, sans prise concrète pour les décideurs."
----
-
 # Pourquoi ce livre
 
 La littérature sur la transformation numérique est abondante, mais elle s’adresse le plus souvent aux experts, ou bien elle survole les sujets sans donner de prise concrète aux décideurs.

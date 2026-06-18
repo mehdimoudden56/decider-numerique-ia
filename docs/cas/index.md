@@ -1,7 +1,3 @@
----
-description: "Cas d’entreprise et retours d’expérience, en complément des cas développés dans le livre."
----
-
 # Cas d’entreprise
 
 Des cas concrets et retours d’expérience, en complément des cas développés dans le livre.

@@ -1,7 +1,3 @@
----
-description: "Action concrète pour le chapitre 14 : faire construire un tableau de bord SI de cinq indicateurs, fiabilité, finances, valeur et risque."
----
-
 <span class="kicker">Outil · Chapitre 14</span>
 
 # Action dans les 30 jours, chapitre 14
@@ -31,7 +27,7 @@ Ce rituel simple est le point de départ du partenariat stratégique décrit dan
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Cet outil prolonge le chapitre 14, « Le rôle concret du dirigeant dans le pilotage SI ». Page à préciser à la parution.</p>
+<p>Cet outil prolonge le chapitre 14, « Le rôle concret du dirigeant dans le pilotage SI ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

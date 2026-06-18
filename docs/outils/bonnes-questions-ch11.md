@@ -1,7 +1,3 @@
----
-description: "Les bonnes questions du chapitre 11 : la part de la dette technique dans le TCO et un plan de résorption avec horizon et ressources."
----
-
 <span class="kicker">Outil · Chapitre 11</span>
 
 # Les bonnes questions à poser, chapitre 11
@@ -39,7 +35,7 @@ description: "Les bonnes questions du chapitre 11 : la part de la dette techniq
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Ces questions prolongent le chapitre 11, « Performance économique du SI : piloter les coûts, mesurer la valeur ». Page à préciser à la parution.</p>
+<p>Ces questions prolongent le chapitre 11, « Performance économique du SI : piloter les coûts, mesurer la valeur ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

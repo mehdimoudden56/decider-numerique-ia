@@ -1,7 +1,3 @@
----
-description: "Les bonnes questions du chapitre 4 : langage partagé entre DSI et direction générale, et accessibilité des présentations SI."
----
-
 <span class="kicker">Outil · Chapitre 4</span>
 
 # Les bonnes questions à poser, chapitre 4
@@ -39,7 +35,7 @@ description: "Les bonnes questions du chapitre 4 : langage partagé entre DSI e
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Ces questions prolongent le chapitre 4, « Le vocabulaire indispensable du dirigeant ». Page à préciser à la parution.</p>
+<p>Ces questions prolongent le chapitre 4, « Le vocabulaire indispensable du dirigeant ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

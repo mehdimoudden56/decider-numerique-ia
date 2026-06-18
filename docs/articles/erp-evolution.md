@@ -1,7 +1,3 @@
----
-description: "L’ERP, colonne vertébrale et point de friction de l’entreprise depuis trente ans : où en est sa mutation et ce que le dirigeant doit en attendre."
----
-
 <span class="kicker">Article</span>
 
 # L’ERP comme système nerveux de l’entreprise : la mutation en cours
@@ -52,7 +48,7 @@ Pour les organisations industrielles en cours de transformation numerique, l’E
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Ce texte prolonge le chapitre 15, « Les grandes tendances qui vont remodeler les SI ». Page à préciser à la parution.</p>
+<p>Ce texte prolonge le chapitre 15, « Les grandes tendances qui vont remodeler les SI ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

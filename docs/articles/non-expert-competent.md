@@ -1,7 +1,3 @@
----
-description: "Qu’est-ce qu’un non-expert compétent ? Penser une posture intermédiaire entre l’ignorance et l’expertise, au cœur de la thèse du livre."
----
-
 <span class="kicker">Regards complémentaires</span>
 
 # Qu’est-ce qu’un non-expert compétent ?
@@ -22,7 +18,7 @@ C’est pourtant cette posture qui sépare l’expertise de la décision, le pri
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>La posture est développée au chapitre 14, « Le rôle concret du dirigeant dans le pilotage du système d’information », où le niveau de compréhension requis est dit stratégique et non technique. L’avant-propos la prépare en récusant les deux démissions symétriques du dirigeant, l’une habillée en modestie, l’autre en autorité. Page à préciser à la parution.</p>
+<p>La posture est développée au chapitre 14, « Le rôle concret du dirigeant dans le pilotage du système d’information », où le niveau de compréhension requis est dit stratégique et non technique. L’avant-propos la prépare en récusant les deux démissions symétriques du dirigeant, l’une habillée en modestie, l’autre en autorité.</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

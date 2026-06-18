@@ -1,7 +1,3 @@
----
-description: "Le SI selon la taille de l’organisation : ce qui distingue les défis d’une TPE de ceux d’un grand groupe, à principes constants."
----
-
 <span class="kicker">Article</span>
 
 # Le SI selon la taille de l’organisation
@@ -30,7 +26,7 @@ Il y a cependant un risque symétrique, moins évoqué : les ETI et les PME en 
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Ce texte prolonge le chapitre 2, « Anatomie d’un système d’information ». Page à préciser à la parution.</p>
+<p>Ce texte prolonge le chapitre 2, « Anatomie d’un système d’information ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

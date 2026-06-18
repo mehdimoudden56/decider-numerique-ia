@@ -1,7 +1,3 @@
----
-description: "Action concrète pour le chapitre 6 : faire produire un tableau de bord de la répartition du budget SI entre Run, Change et Build."
----
-
 <span class="kicker">Outil · Chapitre 6</span>
 
 # Action dans les 30 jours, chapitre 6
@@ -29,7 +25,7 @@ Si ce tableau de bord n’existe pas ou ne peut pas être produit rapidement, c�
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Cet outil prolonge le chapitre 6, « Projets, évolutions, support et exploitation du SI ». Page à préciser à la parution.</p>
+<p>Cet outil prolonge le chapitre 6, « Projets, évolutions, support et exploitation du SI ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

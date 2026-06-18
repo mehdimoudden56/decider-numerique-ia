@@ -1,7 +1,3 @@
----
-description: "Action concrète pour le chapitre 8 : faire expliciter en une page les mandats de la DSI, leurs résultats attendus et leurs indicateurs."
----
-
 <span class="kicker">Outil · Chapitre 8</span>
 
 # Action dans les 30 jours, chapitre 8
@@ -29,7 +25,7 @@ Si cette présentation ne peut pas être produite ou si elle se résume à une l
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Cet outil prolonge le chapitre 8, « Gouvernance et organisation de la fonction SI : piloter sans se substituer ». Page à préciser à la parution.</p>
+<p>Cet outil prolonge le chapitre 8, « Gouvernance et organisation de la fonction SI : piloter sans se substituer ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

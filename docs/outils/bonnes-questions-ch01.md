@@ -1,7 +1,3 @@
----
-description: "Les bonnes questions du chapitre 1 : tester la résilience du SI, les scénarios d’indisponibilité et la préparation aux crises."
----
-
 <span class="kicker">Outil · Chapitre 1</span>
 
 # Les bonnes questions à poser, chapitre 1
@@ -37,7 +33,7 @@ description: "Les bonnes questions du chapitre 1 : tester la résilience du SI,
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Ces questions prolongent le chapitre 1, « Toute organisation est désormais technologique ». Page à préciser à la parution.</p>
+<p>Ces questions prolongent le chapitre 1, « Toute organisation est désormais technologique ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

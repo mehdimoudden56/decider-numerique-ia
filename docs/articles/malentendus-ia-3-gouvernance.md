@@ -1,7 +1,3 @@
----
-description: "Troisième malentendu de l’IA générative : gouverner une production sous contrainte statistique, et non un calcul déterministe."
----
-
 <span class="kicker">Regards complémentaires · IA générative</span>
 
 # Troisième malentendu de l’IA générative : la gouvernance
@@ -20,7 +16,7 @@ Ivan Illich, dans La convivialité, distinguait les outils qui augmentent l’au
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Le chapitre 13 consacre une section à la gouvernance comme condition de la valeur, et détaille la politique d’usage et la classification des systèmes au regard du règlement européen sur l’intelligence artificielle. Cet article en propose un regard volontairement plus critique, sur les limites des dispositifs classiques. Page à préciser à la parution.</p>
+<p>Le chapitre 13 consacre une section à la gouvernance comme condition de la valeur, et détaille la politique d’usage et la classification des systèmes au regard du règlement européen sur l’intelligence artificielle. Cet article en propose un regard volontairement plus critique, sur les limites des dispositifs classiques.</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

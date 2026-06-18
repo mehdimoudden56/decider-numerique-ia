@@ -1,7 +1,3 @@
----
-description: "Premier malentendu de l’IA générative : traiter un modèle de langage comme un logiciel ordinaire condamne d’avance les décisions qui suivent."
----
-
 <span class="kicker">Regards complémentaires · IA générative</span>
 
 # Premier malentendu de l’IA générative : la nature de l’outil
@@ -22,7 +18,7 @@ Tant que nous appliquerons à ce nouvel objet technique le vocabulaire de gouver
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Le chapitre 13, « L’intelligence artificielle au service de la stratégie et des opérations », distingue trois générations d’intelligence artificielle qui n’exigent pas les mêmes décisions, et rappelle ce que l’intelligence artificielle ne change pas. Page à préciser à la parution.</p>
+<p>Le chapitre 13, « L’intelligence artificielle au service de la stratégie et des opérations », distingue trois générations d’intelligence artificielle qui n’exigent pas les mêmes décisions, et rappelle ce que l’intelligence artificielle ne change pas.</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

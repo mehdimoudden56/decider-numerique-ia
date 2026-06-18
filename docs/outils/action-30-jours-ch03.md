@@ -1,7 +1,3 @@
----
-description: "Action concrète pour le chapitre 3 : un atelier pour identifier l’entité de données la plus stratégique de l’organisation et sa qualité réelle."
----
-
 <span class="kicker">Outil · Chapitre 3</span>
 
 # Action dans les 30 jours, chapitre 3
@@ -27,7 +23,7 @@ Organisez un atelier de deux heures avec votre DSI et les directeurs métiers cl
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Cet outil prolonge le chapitre 3, « Données et IA : les nouveaux actifs stratégiques ». Page à préciser à la parution.</p>
+<p>Cet outil prolonge le chapitre 3, « Données et IA : les nouveaux actifs stratégiques ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

@@ -1,7 +1,3 @@
----
-description: "Action concrète pour le chapitre 11 : faire établir par DSI et DAF un état du budget IT, des dépenses hors DSI et de la dette technique."
----
-
 <span class="kicker">Outil · Chapitre 11</span>
 
 # Action dans les 30 jours, chapitre 11
@@ -27,7 +23,7 @@ Demandez à votre DSI et à votre DAF de produire conjointement, avant votre pro
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Cet outil prolonge le chapitre 11, « Performance économique du SI : piloter les coûts, mesurer la valeur ». Page à préciser à la parution.</p>
+<p>Cet outil prolonge le chapitre 11, « Performance économique du SI : piloter les coûts, mesurer la valeur ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

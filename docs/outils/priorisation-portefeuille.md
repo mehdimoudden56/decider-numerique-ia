@@ -1,7 +1,3 @@
----
-description: "La priorisation du portefeuille de projets SI : pourquoi c’est le rôle incontournable du dirigeant et où se révèle la qualité de la gouvernance."
----
-
 <span class="kicker">Outil · Méthode</span>
 
 # La priorisation du portefeuille de projets : le rôle incontournable du dirigeant
@@ -60,7 +56,7 @@ Dans la pratique, l’ACM révèle que la plupart des portefeuilles de projets s
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Cet outil prolonge le chapitre 6, « Projets, évolutions, support et exploitation du SI ». Page à préciser à la parution.</p>
+<p>Cet outil prolonge le chapitre 6, « Projets, évolutions, support et exploitation du SI ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

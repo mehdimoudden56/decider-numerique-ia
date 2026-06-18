@@ -1,7 +1,3 @@
----
-description: "Le DISDO, Délégué SI du Domaine : un rôle de tiers de confiance entre direction métier et filière SI pour rendre possibles les arbitrages."
----
-
 <span class="kicker">Concept original</span>
 
 # Le DISDO, Délégué SI du Domaine
@@ -20,7 +16,7 @@ Le principe qui le gouverne est la non-substitution : le DISDO ne décide pas �
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Le dispositif est détaillé au le chapitre 8, « Gouvernance et organisation de la fonction SI : piloter sans se substituer ». Page à préciser à la parution.</p>
+<p>Le dispositif est détaillé au le chapitre 8, « Gouvernance et organisation de la fonction SI : piloter sans se substituer ».</p>
 </div>
 
 !!! note "Concept original"

@@ -1,7 +1,3 @@
----
-description: "Glossaire essentiel des termes SI, data et IA : des définitions opérationnelles pour participer avec discernement aux discussions numériques."
----
-
 <span class="kicker">Conclusion outillée · Outil E</span>
 
 # Glossaire essentiel : termes SI, Data et IA

@@ -1,7 +1,3 @@
----
-description: "Les bonnes questions du chapitre 13 : politique IA formalisée, usages autorisés et mise à jour au fil de la réglementation."
----
-
 <span class="kicker">Outil · Chapitre 13</span>
 
 # Les bonnes questions à poser, chapitre 13
@@ -39,7 +35,7 @@ description: "Les bonnes questions du chapitre 13 : politique IA formalisée, u
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Ces questions prolongent le chapitre 13, « L’IA au service de la stratégie et des opérations ». Page à préciser à la parution.</p>
+<p>Ces questions prolongent le chapitre 13, « L’IA au service de la stratégie et des opérations ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

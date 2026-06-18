@@ -1,7 +1,3 @@
----
-description: "Val d’Armorique, cas pédagogique fictif : comment ouvrir un comité numérique stratégique. Illustration du chapitre 9 du livre."
----
-
 <span class="kicker">Cas pédagogique</span>
 
 # Val d’Armorique : ouvrir un comité numérique stratégique
@@ -19,7 +15,7 @@ Pascal Lemoine prend alors la parole.
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Ce cas ouvre le chapitre 9, « Piloter la transformation, SDSI vivant, instances et conduite du changement ». Page à préciser à la parution.</p>
+<p>Ce cas ouvre le chapitre 9, « Piloter la transformation, SDSI vivant, instances et conduite du changement ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

@@ -1,7 +1,3 @@
----
-description: "Par où commencer face aux cadres de référence comme ITIL ou COBIT : comment les choisir et les séquencer sans se disperser."
----
-
 <span class="kicker">Article</span>
 
 # Par où commencer, choisir et séquencer ses cadres de référence
@@ -22,7 +18,7 @@ Ne pas tout lancer en même temps. Chaque cadre demande un investissement en for
 
 ### Principe 3.
 
-Mesurer la maturité avant de choisir. Avant d’engager un nouveau cadre, objectiver le point de départ. Le MAGNum, présenté en section 7.8 et au chapitre 8, section 8.6, visualise les fragilités les plus importantes et priorise les chantiers sur une base factuelle.
+Mesurer la maturité avant de choisir. Avant d’engager un nouveau cadre, objectiver le point de départ. Un outil d’auto-évaluation transverse, publié en 2026 par le Cigref, l’IFACI et ISACA France et présenté au chapitre 8, permet de visualiser les fragilités les plus importantes et de prioriser les chantiers sur une base factuelle.
 
 **Figure 7.2. Choisir le bon cadre selon la situation**  
 *Guide de sélection pratique pour le dirigeant.*
@@ -35,7 +31,7 @@ Mesurer la maturité avant de choisir. Avant d’engager un nouveau cadre, objec
 | Plusieurs équipes agiles travaillent en parallèle sur des produits interdépendants. | SAFe | Agile / Scrum | Un PI Planning coordonne les équipes. Les dépendances inter-équipes sont visualisées et gérées. |
 | Un client, un régulateur ou un partenaire exige une certification de sécurité. | ISO 27001 | COBIT 2019 | Un SMSI est en place, la politique de sécurité est révisée annuellement, un audit de certification est prévu. |
 | Le conseil d’administration souhaite un cadre de gouvernance IT lisible et auditable. | ISO 38500 | COBIT 2019 | Les six principes de gouvernance sont documentés, un rapport annuel de gouvernance IT est présenté au conseil. |
-| La direction générale veut mesurer sa maturité de gouvernance numérique sur l’ensemble de ses dimensions. | MAGNum | COBIT 2019 / ISO 38500 | Un radar de maturité sur 13 vecteurs est produit annuellement. Des plans d’action prioritaires sont définis et suivis. |
+| La direction générale veut mesurer sa maturité de gouvernance numérique sur l’ensemble de ses dimensions. | Auto-évaluation Cigref / IFACI / ISACA | COBIT 2019 / ISO 38500 | Un radar de maturité sur un nombre limité de dimensions stratégiques est produit annuellement. Des plans d’action prioritaires sont définis et suivis. |
 
 !!! note
     Cas concret, une ETI industrielle qui structure sa gouvernance SI avec les cadres de référence
@@ -43,7 +39,7 @@ Mesurer la maturité avant de choisir. Avant d’engager un nouveau cadre, objec
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Ce texte prolonge le chapitre 7, « Les cadres de référence : ITIL, COBIT, Agile, DevOps et les normes essentielles ». Page à préciser à la parution.</p>
+<p>Ce texte prolonge le chapitre 7, « Les cadres de référence : ITIL, COBIT, Agile, DevOps et les normes essentielles ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

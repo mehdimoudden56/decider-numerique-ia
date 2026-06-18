@@ -1,7 +1,3 @@
----
-description: "Le cadre réglementaire numérique que tout dirigeant doit connaître : RGPD, NIS2, DORA, AI Act, Data Act et les obligations qui en découlent."
----
-
 <span class="kicker">Veille réglementaire</span>
 
 # Le cadre réglementaire numérique : ce que tout dirigeant doit savoir
@@ -33,7 +29,7 @@ Le tableau suivant synthétise les cinq textes réglementaires que tout dirigean
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Ce dossier prolonge le chapitre 4, « Le vocabulaire indispensable du dirigeant ». Page à préciser à la parution.</p>
+<p>Ce dossier prolonge le chapitre 4, « Le vocabulaire indispensable du dirigeant ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

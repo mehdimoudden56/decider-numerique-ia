@@ -1,7 +1,3 @@
----
-description: "Veille sur les principaux règlements européens du numérique : AI Act, NIS2, DORA, CSRD, Data Act et Cyber Resilience Act."
----
-
 # Veille réglementaire
 
 Le suivi des principaux règlements européens qui encadrent le numérique : AI Act, NIS2, DORA, CSRD, Data Act, Cyber Resilience Act.

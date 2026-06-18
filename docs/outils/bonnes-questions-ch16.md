@@ -1,7 +1,3 @@
----
-description: "Les bonnes questions du chapitre 16 : comprendre ce que la révolution numérique change vraiment dans son industrie et son modèle."
----
-
 <span class="kicker">Outil · Chapitre 16</span>
 
 # Les bonnes questions à poser, chapitre 16
@@ -37,7 +33,7 @@ description: "Les bonnes questions du chapitre 16 : comprendre ce que la révol
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Ces questions prolongent le chapitre 16, « Vers le dirigeant augmenté ». Page à préciser à la parution.</p>
+<p>Ces questions prolongent le chapitre 16, « Vers le dirigeant augmenté ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

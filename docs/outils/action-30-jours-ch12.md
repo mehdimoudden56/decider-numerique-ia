@@ -1,7 +1,3 @@
----
-description: "Action concrète pour le chapitre 12 : organiser avec son RSSI un exercice sur table de 90 minutes simulant un rançongiciel."
----
-
 <span class="kicker">Outil · Chapitre 12</span>
 
 # Action dans les 30 jours, chapitre 12
@@ -31,7 +27,7 @@ Si votre équipe de direction ne peut pas répondre à ces questions avec fluidi
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Cet outil prolonge le chapitre 12, « Résilience, cybersécurité et continuité d’activité ». Page à préciser à la parution.</p>
+<p>Cet outil prolonge le chapitre 12, « Résilience, cybersécurité et continuité d’activité ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

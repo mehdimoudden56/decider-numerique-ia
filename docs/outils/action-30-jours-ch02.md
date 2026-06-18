@@ -1,7 +1,3 @@
----
-description: "Action concrète pour le chapitre 2 : se faire présenter l’état de santé du SI, ses fragilités, sa dette technique et sa sécurité."
----
-
 <span class="kicker">Outil · Chapitre 2</span>
 
 # Action dans les 30 jours, chapitre 2
@@ -27,7 +23,7 @@ Demandez à votre DSI une présentation de 30 minutes sur l’état de santé du
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Cet outil prolonge le chapitre 2, « Anatomie d’un système d’information ». Page à préciser à la parution.</p>
+<p>Cet outil prolonge le chapitre 2, « Anatomie d’un système d’information ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

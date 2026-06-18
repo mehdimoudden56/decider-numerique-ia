@@ -1,7 +1,3 @@
----
-description: "Action concrète pour le chapitre 9 : obtenir l’état factuel de la cartographie SI, de la santé des applications critiques et des dépendances."
----
-
 <span class="kicker">Outil · Chapitre 9</span>
 
 # Action dans les 30 jours, chapitre 9
@@ -33,7 +29,7 @@ Semaine 4, valider ou ajuster, sur la base des trois premiers jalons, une ou deu
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Cet outil prolonge le chapitre 9, « Piloter la transformation, SDSI vivant, instances et conduite du changement ». Page à préciser à la parution.</p>
+<p>Cet outil prolonge le chapitre 9, « Piloter la transformation, SDSI vivant, instances et conduite du changement ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

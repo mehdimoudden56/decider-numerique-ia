@@ -1,7 +1,3 @@
----
-description: "Un guide pour les dirigeants non techniques (DG, DAF, DRH, administrateurs, PME et ETI) : décider sur le numérique et l’IA sans devenir expert."
----
-
 # À propos du livre
 
 **Gouverner le numérique et l’IA sans être expert. Le guide du dirigeant qui décide sans subir.**

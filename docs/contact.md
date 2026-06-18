@@ -1,7 +1,3 @@
----
-description: "Contacter l’auteur pour toute question sur le livre ou les ressources de ce site."
----
-
 # Contact
 
 Pour toute question sur le livre ou les ressources de ce site :

@@ -1,7 +1,3 @@
----
-description: "Les bonnes questions du chapitre 3 : situer sa maturité data-IA et juger honnêtement la qualité de ses données stratégiques."
----
-
 <span class="kicker">Outil · Chapitre 3</span>
 
 # Les bonnes questions à poser, chapitre 3
@@ -39,7 +35,7 @@ description: "Les bonnes questions du chapitre 3 : situer sa maturité data-IA 
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Ces questions prolongent le chapitre 3, « Données et IA : les nouveaux actifs stratégiques ». Page à préciser à la parution.</p>
+<p>Ces questions prolongent le chapitre 3, « Données et IA : les nouveaux actifs stratégiques ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

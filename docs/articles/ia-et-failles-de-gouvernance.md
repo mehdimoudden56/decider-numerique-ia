@@ -1,7 +1,3 @@
----
-description: "L’IA ne crée pas les failles de gouvernance, elle les révèle. Relecture d’une enquête du New York Times sous l’angle de la gouvernance."
----
-
 <span class="kicker">Regards complémentaires</span>
 
 # L’IA ne crée pas les failles de gouvernance, elle les révèle
@@ -22,7 +18,7 @@ L’IA générative ne change pas les lois de la gouvernance. Elle en révèle l
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Le chapitre 13, « L’intelligence artificielle au service de la stratégie et des opérations », s’ouvre sur l’idée que l’intelligence artificielle change ce qui est possible sans changer ce qui est difficile, et que la qualité des décisions du dirigeant compte désormais plus que jamais. Page à préciser à la parution.</p>
+<p>Le chapitre 13, « L’intelligence artificielle au service de la stratégie et des opérations », s’ouvre sur l’idée que l’intelligence artificielle change ce qui est possible sans changer ce qui est difficile, et que la qualité des décisions du dirigeant compte désormais plus que jamais.</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

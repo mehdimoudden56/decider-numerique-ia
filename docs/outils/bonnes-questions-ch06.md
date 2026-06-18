@@ -1,7 +1,3 @@
----
-description: "Les bonnes questions du chapitre 6 : exiger pour chaque projet SI un dossier économique co-élaboré avec le métier et des bénéfices chiffrés."
----
-
 <span class="kicker">Outil · Chapitre 6</span>
 
 # Les bonnes questions à poser, chapitre 6
@@ -39,7 +35,7 @@ description: "Les bonnes questions du chapitre 6 : exiger pour chaque projet SI
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Ces questions prolongent le chapitre 6, « Projets, évolutions, support et exploitation du SI ». Page à préciser à la parution.</p>
+<p>Ces questions prolongent le chapitre 6, « Projets, évolutions, support et exploitation du SI ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

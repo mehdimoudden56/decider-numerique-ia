@@ -1,7 +1,3 @@
----
-description: "Analyses qui prolongent les chapitres du livre, textes fondateurs et regards complémentaires sur le numérique, l’IA et la gouvernance."
----
-
 # Articles
 
 Des analyses qui prolongent les chapitres du livre, les textes qui en ont formalisé les idées au fil des années, et quelques regards complémentaires.

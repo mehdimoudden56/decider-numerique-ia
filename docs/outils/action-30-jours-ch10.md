@@ -1,7 +1,3 @@
----
-description: "Action concrète pour le chapitre 10 : passer chaque projet SI majeur au crible de cinq questions clés, du sponsor métier aux risques."
----
-
 <span class="kicker">Outil · Chapitre 10</span>
 
 # Action dans les 30 jours, chapitre 10
@@ -29,7 +25,7 @@ Si l’une de ces cinq questions ne peut pas recevoir de réponse précise, c’
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Cet outil prolonge le chapitre 10, « Cas concrets et retours d’expérience ». Page à préciser à la parution.</p>
+<p>Cet outil prolonge le chapitre 10, « Cas concrets et retours d’expérience ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

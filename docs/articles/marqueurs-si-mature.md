@@ -1,7 +1,3 @@
----
-description: "À quoi ressemble concrètement un SI mature, et un SI immature : les marqueurs pratiques pour situer son organisation."
----
-
 <span class="kicker">Article</span>
 
 # Vers un SI mature : ce que cela signifie concrètement
@@ -31,7 +27,7 @@ Et l’expérience l’enseigne constamment : les fragilités anatomiques d’u
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Ce texte prolonge le chapitre 2, « Anatomie d’un système d’information ». Page à préciser à la parution.</p>
+<p>Ce texte prolonge le chapitre 2, « Anatomie d’un système d’information ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

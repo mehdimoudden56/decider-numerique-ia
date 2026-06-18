@@ -1,7 +1,3 @@
----
-description: "Comment un dirigeant entretient et met à jour sa culture SI dans un domaine mouvant : le vrai défi n’est pas technique, il est épistémique."
----
-
 <span class="kicker">Article</span>
 
 # Comment entretenir et développer sa culture SI
@@ -32,7 +28,7 @@ Des outils de gouvernance gratuits, en accès libre et produits par consensus en
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Ce texte prolonge le chapitre 4, « Le vocabulaire indispensable du dirigeant ». Page à préciser à la parution.</p>
+<p>Ce texte prolonge le chapitre 4, « Le vocabulaire indispensable du dirigeant ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

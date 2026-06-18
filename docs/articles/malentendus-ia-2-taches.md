@@ -1,7 +1,3 @@
----
-description: "Deuxième malentendu de l’IA générative : quelles tâches lui confier ? L’intuition dominante mène souvent à l’inverse de ce qui crée de la valeur."
----
-
 <span class="kicker">Regards complémentaires · IA générative</span>
 
 # Deuxième malentendu de l’IA générative : le type de tâche délégable
@@ -20,7 +16,7 @@ Cette erreur de ciblage ne tient pas à la mauvaise foi des dirigeants. Elle tie
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Le chapitre 13 propose une matrice valeur-faisabilité pour hiérarchiser les cas d’usage de l’intelligence artificielle avant tout investissement significatif. Cet article complète cette grille de priorisation par une grille d’aptitude des tâches. Page à préciser à la parution.</p>
+<p>Le chapitre 13 propose une matrice valeur-faisabilité pour hiérarchiser les cas d’usage de l’intelligence artificielle avant tout investissement significatif. Cet article complète cette grille de priorisation par une grille d’aptitude des tâches.</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

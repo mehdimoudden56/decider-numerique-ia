@@ -1,7 +1,3 @@
----
-description: "Action concrète pour le chapitre 5 : identifier avec sa DSI les deux ou trois profils manquants pour lancer la transformation la plus ambitieuse."
----
-
 <span class="kicker">Outil · Chapitre 5</span>
 
 # Action dans les 30 jours, chapitre 5
@@ -27,7 +23,7 @@ Organisez un entretien de 45 minutes avec votre DSI ou responsable IT autour de 
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Cet outil prolonge le chapitre 5, « Les métiers et compétences de la filière SI/Data/IA ». Page à préciser à la parution.</p>
+<p>Cet outil prolonge le chapitre 5, « Les métiers et compétences de la filière SI/Data/IA ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

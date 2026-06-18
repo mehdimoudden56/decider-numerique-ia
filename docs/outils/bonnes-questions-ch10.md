@@ -1,7 +1,3 @@
----
-description: "Les bonnes questions du chapitre 10 : le portage réel des transformations SI par la direction générale, sponsor nommé et gouvernance dédiée."
----
-
 <span class="kicker">Outil · Chapitre 10</span>
 
 # Les bonnes questions à poser, chapitre 10
@@ -39,7 +35,7 @@ description: "Les bonnes questions du chapitre 10 : le portage réel des transf
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Ces questions prolongent le chapitre 10, « Cas concrets et retours d’expérience ». Page à préciser à la parution.</p>
+<p>Ces questions prolongent le chapitre 10, « Cas concrets et retours d’expérience ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

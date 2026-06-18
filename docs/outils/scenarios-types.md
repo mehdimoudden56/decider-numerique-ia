@@ -1,7 +1,3 @@
----
-description: "Cinq fiches de scénarios types pour les situations les plus fréquentes : diagnostic, pièges à éviter, actions prioritaires et indicateurs."
----
-
 <span class="kicker">Conclusion outillée · Outil D</span>
 
 # Scénarios types : que faire face aux situations les plus fréquentes

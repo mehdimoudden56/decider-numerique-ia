@@ -1,7 +1,3 @@
----
-description: "Les quatre défis épistémiques du dirigeant : où se loge le défaut quand un projet SI ou IA déraille. Thèse centrale du livre."
----
-
 <span class="kicker">Concept original</span>
 
 # Les quatre défis épistémiques du dirigeant
@@ -20,7 +16,7 @@ Ces quatre dimensions forment une grille de lecture opérationnelle, pas une th�
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Cette grille ouvre le livre, au le chapitre 1, « Toute organisation est désormais une organisation technologique ». Page à préciser à la parution.</p>
+<p>Cette grille ouvre le livre, au le chapitre 1, « Toute organisation est désormais une organisation technologique ».</p>
 </div>
 
 !!! note "Concept original"

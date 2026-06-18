@@ -1,7 +1,3 @@
----
-description: "La typologie épistémique des neuf cas : quatre points de défaillance récurrents quand un projet numérique échoue."
----
-
 <span class="kicker">Concept original</span>
 
 # La typologie épistémique des neuf cas
@@ -20,7 +16,7 @@ Cette grille ne prétend pas réduire les cas à leur dimension dominante : ell
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>La lecture transversale des neuf cas figure au le chapitre 10, « Cas concrets et retours d’expérience ». Page à préciser à la parution.</p>
+<p>La lecture transversale des neuf cas figure au le chapitre 10, « Cas concrets et retours d’expérience ».</p>
 </div>
 
 !!! note "Concept original"

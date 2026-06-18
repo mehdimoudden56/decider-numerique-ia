@@ -1,7 +1,3 @@
----
-description: "Les bonnes questions du chapitre 14 : savoir articuler soi-même l’ambition numérique de son organisation à trois ans."
----
-
 <span class="kicker">Outil · Chapitre 14</span>
 
 # Les bonnes questions à poser, chapitre 14
@@ -37,7 +33,7 @@ description: "Les bonnes questions du chapitre 14 : savoir articuler soi-même 
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Ces questions prolongent le chapitre 14, « Le rôle concret du dirigeant dans le pilotage SI ». Page à préciser à la parution.</p>
+<p>Ces questions prolongent le chapitre 14, « Le rôle concret du dirigeant dans le pilotage SI ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

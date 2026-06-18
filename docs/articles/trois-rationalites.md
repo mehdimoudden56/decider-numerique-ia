@@ -1,7 +1,3 @@
----
-description: "Consultant, technicien, dirigeant : trois rationalités qui s’affrontent en comité de transformation, et comment les faire dialoguer."
----
-
 <span class="kicker">Regards complémentaires</span>
 
 # Le consultant, le technicien et le dirigeant : trois rationalités incompatibles
@@ -22,7 +18,7 @@ Le rôle du dirigeant n’est pas de trancher entre ces trois rationalités. Il 
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Le chapitre 14, « Le rôle concret du dirigeant dans le pilotage du système d’information », décrit le partenariat avec la direction informatique qui rend ces rationalités productives plutôt que destructives, distinct de la relation de client à prestataire. Page à préciser à la parution.</p>
+<p>Le chapitre 14, « Le rôle concret du dirigeant dans le pilotage du système d’information », décrit le partenariat avec la direction informatique qui rend ces rationalités productives plutôt que destructives, distinct de la relation de client à prestataire.</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

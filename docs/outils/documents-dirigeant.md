@@ -1,7 +1,3 @@
----
-description: "Les documents et indicateurs que tout dirigeant doit pouvoir lire et exiger de sa DSI : le tableau de bord minimal d’une gouvernance saine."
----
-
 <span class="kicker">Outil · Repères</span>
 
 # Les documents que tout dirigeant doit pouvoir lire et exiger
@@ -39,7 +35,7 @@ Ces documents ne requièrent pas de compétences techniques pour être lus : il
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Cet outil prolonge le chapitre 4, « Le vocabulaire indispensable du dirigeant ». Page à préciser à la parution.</p>
+<p>Cet outil prolonge le chapitre 4, « Le vocabulaire indispensable du dirigeant ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

@@ -1,7 +1,3 @@
----
-description: "Aux origines du livre : la vraie nature de la numérisation, une idée née de l’expérience de terrain puis formalisée publiquement."
----
-
 <span class="kicker">Aux origines du livre</span>
 
 # La vraie nature de la numérisation
@@ -16,7 +12,7 @@ La conséquence pour le dirigeant est directe. Un changement de système techniq
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Cette idée fonde le chapitre 1, « Toute organisation est désormais une organisation technologique ». Page à préciser à la parution.</p>
+<p>Cette idée fonde le chapitre 1, « Toute organisation est désormais une organisation technologique ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

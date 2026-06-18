@@ -1,7 +1,3 @@
----
-description: "L’explicabilité de l’IA : comprendre comment un modèle décide, un enjeu de confiance et de gouvernance pour l’entreprise et la société."
----
-
 <span class="kicker">Article</span>
 
 # L’explicabilité de l’IA, un enjeu pour l’entreprise et la société
@@ -16,7 +12,7 @@ L’enjeu déborde l’entreprise. L’IA pèse de plus en plus sur des décisio
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Le sujet est traité le chapitre 13, « L’IA au service de la stratégie et des opérations ». Page à préciser à la parution.</p>
+<p>Le sujet est traité le chapitre 13, « L’IA au service de la stratégie et des opérations ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

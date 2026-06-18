@@ -1,7 +1,3 @@
----
-description: "Action concrète pour le chapitre 13 : poser trois questions sur la valeur réelle des projets IA en cours et leur adoption quotidienne."
----
-
 <span class="kicker">Outil · Chapitre 13</span>
 
 # Action dans les 30 jours, chapitre 13
@@ -29,7 +25,7 @@ Si ces trois questions ne reçoivent pas de réponse précise dans votre organis
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Cet outil prolonge le chapitre 13, « L’IA au service de la stratégie et des opérations ». Page à préciser à la parution.</p>
+<p>Cet outil prolonge le chapitre 13, « L’IA au service de la stratégie et des opérations ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

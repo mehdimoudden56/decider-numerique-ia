@@ -1,7 +1,3 @@
----
-description: "La pluridisciplinarité, nouveau standard de la filière SI : pourquoi les profils hybrides supplantent les spécialistes purs."
----
-
 <span class="kicker">Article</span>
 
 # La pluridisciplinarité, nouveau standard de la filière
@@ -23,7 +19,7 @@ Le concept de profil ’T-shaped’ est devenu un référentiel courant. La barr
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Ce texte prolonge le chapitre 5, « Les métiers et compétences de la filière SI/Data/IA ». Page à préciser à la parution.</p>
+<p>Ce texte prolonge le chapitre 5, « Les métiers et compétences de la filière SI/Data/IA ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

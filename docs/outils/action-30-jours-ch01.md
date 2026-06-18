@@ -1,7 +1,3 @@
----
-description: "Action concrète pour le chapitre 1 : organiser une revue de crise SI fictive avec son comité pour tester une indisponibilité de 48 heures."
----
-
 <span class="kicker">Outil · Chapitre 1</span>
 
 # Action dans les 30 jours, chapitre 1
@@ -34,7 +30,7 @@ Si l’exercice révèle que personne ne connaît les réponses, c’est une con
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Cet outil prolonge le chapitre 1, « Toute organisation est désormais technologique ». Page à préciser à la parution.</p>
+<p>Cet outil prolonge le chapitre 1, « Toute organisation est désormais technologique ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

@@ -1,7 +1,3 @@
----
-description: "La grille DISO : une auto-évaluation comportementale du dirigeant face au numérique. Là où l’architecture interroge le SI, DISO interroge le dirigeant."
----
-
 <span class="kicker">Concept original</span>
 
 # La grille DISO, auto-évaluation du dirigeant augmenté
@@ -21,7 +17,7 @@ Une note basse sur un axe ne disqualifie pas un dirigeant : elle l’oriente ve
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>La carte complète, ses quatre convictions et ses quatre compétences, figure au le chapitre 16, « Vers le dirigeant augmenté ». Page à préciser à la parution.</p>
+<p>La carte complète, ses quatre convictions et ses quatre compétences, figure au le chapitre 16, « Vers le dirigeant augmenté ».</p>
 </div>
 
 !!! note "Concept original"

@@ -1,7 +1,3 @@
----
-description: "Grille d’auto-diagnostic du dirigeant en 20 questions, couvrant les quatre zones de responsabilité dans la gouvernance numérique."
----
-
 <span class="kicker">Conclusion outillée · Outil B</span>
 
 # Grille d’auto-diagnostic du dirigeant en 20 questions

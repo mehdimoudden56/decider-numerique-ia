@@ -1,7 +1,3 @@
----
-description: "Action concrète pour le chapitre 16 : choisir une décision numérique importante des six prochains mois et la préparer méthodiquement."
----
-
 <span class="kicker">Outil · Chapitre 16</span>
 
 # Action dans les 30 jours, chapitre 16
@@ -31,7 +27,7 @@ La qualité de leur réponse à cette demande vous dira deux choses, si votre or
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Cet outil prolonge le chapitre 16, « Vers le dirigeant augmenté ». Page à préciser à la parution.</p>
+<p>Cet outil prolonge le chapitre 16, « Vers le dirigeant augmenté ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

@@ -1,7 +1,3 @@
----
-description: "Action concrète pour le chapitre 4 : demander à sa DSI ce qu’elle sacrifierait d’abord en cas de baisse de 20 % du budget SI, et les risques."
----
-
 <span class="kicker">Outil · Chapitre 4</span>
 
 # Action dans les 30 jours, chapitre 4
@@ -29,7 +25,7 @@ Cette question force une hiérarchisation claire entre Run, Change et Build, ré
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Cet outil prolonge le chapitre 4, « Le vocabulaire indispensable du dirigeant ». Page à préciser à la parution.</p>
+<p>Cet outil prolonge le chapitre 4, « Le vocabulaire indispensable du dirigeant ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

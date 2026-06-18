@@ -1,7 +1,3 @@
----
-description: "Les sept convictions de praticien qui traversent le livre : non des théorèmes, mais des principes qui s’éprouvent au fil des chapitres."
----
-
 <span class="kicker">Concept original</span>
 
 # Les sept convictions du praticien
@@ -18,7 +14,7 @@ Sept convictions de praticien traversent le livre. Elles ne se démontrent pas 
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Ces convictions sont posées en avant-propos et reprises en ouverture des chapitres. Page à préciser à la parution.</p>
+<p>Ces convictions sont posées en avant-propos et reprises en ouverture des chapitres.</p>
 </div>
 
 !!! note "Concept original"

@@ -1,7 +1,3 @@
----
-description: "Les bonnes questions du chapitre 12 : évaluation des risques cyber, actifs critiques, menaces probables et mise à jour régulière."
----
-
 <span class="kicker">Outil · Chapitre 12</span>
 
 # Les bonnes questions à poser, chapitre 12
@@ -39,7 +35,7 @@ description: "Les bonnes questions du chapitre 12 : évaluation des risques cyb
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Ces questions prolongent le chapitre 12, « Résilience, cybersécurité et continuité d’activité ». Page à préciser à la parution.</p>
+<p>Ces questions prolongent le chapitre 12, « Résilience, cybersécurité et continuité d’activité ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

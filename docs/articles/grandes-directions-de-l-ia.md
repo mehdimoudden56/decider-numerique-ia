@@ -1,7 +1,3 @@
----
-description: "Repères pour dirigeants sur les grandes directions de l’IA : des progrès incrémentaux aux systèmes qui raisonnent, planifient et agissent."
----
-
 <span class="kicker">Article</span>
 
 # Les grandes directions de l’IA, repères pour dirigeants
@@ -27,7 +23,7 @@ La question stratégique n’est plus de savoir si l’IA bouleversera un secteu
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Les tendances de fond sont développées le chapitre 15, « Les grandes tendances qui vont remodeler les SI ». Page à préciser à la parution.</p>
+<p>Les tendances de fond sont développées le chapitre 15, « Les grandes tendances qui vont remodeler les SI ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

@@ -1,7 +1,3 @@
----
-description: "Les bonnes questions du chapitre 8 : instance de pilotage stratégique du SI, sa fréquence et la réalité des arbitrages numériques majeurs."
----
-
 <span class="kicker">Outil · Chapitre 8</span>
 
 # Les bonnes questions à poser, chapitre 8
@@ -41,7 +37,7 @@ description: "Les bonnes questions du chapitre 8 : instance de pilotage straté
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Ces questions prolongent le chapitre 8, « Gouvernance et organisation de la fonction SI : piloter sans se substituer ». Page à préciser à la parution.</p>
+<p>Ces questions prolongent le chapitre 8, « Gouvernance et organisation de la fonction SI : piloter sans se substituer ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

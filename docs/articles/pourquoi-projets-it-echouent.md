@@ -1,7 +1,3 @@
----
-description: "Dépassements, retards, résultats décevants : pourquoi tant de projets informatiques échouent, et ce que le défaut révèle vraiment."
----
-
 <span class="kicker">Regards complémentaires</span>
 
 # Pourquoi tant de projets informatiques échouent
@@ -20,7 +16,7 @@ L’informatique peut être transformatrice, mais à condition de la traiter ave
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Le chapitre 14, « Le rôle concret du dirigeant dans le pilotage du système d’information », observe que les grands programmes qui échouent ne manquent presque jamais de compétences techniques, mais de portage dirigeant, et fait de la capacité à arrêter un programme le marqueur le plus net d’une gouvernance mature. Page à préciser à la parution.</p>
+<p>Le chapitre 14, « Le rôle concret du dirigeant dans le pilotage du système d’information », observe que les grands programmes qui échouent ne manquent presque jamais de compétences techniques, mais de portage dirigeant, et fait de la capacité à arrêter un programme le marqueur le plus net d’une gouvernance mature.</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

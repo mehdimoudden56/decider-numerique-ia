@@ -1,7 +1,3 @@
----
-description: "Action concrète pour le chapitre 15 : faire présenter par DSI et RSSI un état des lieux sur deux des six grandes tendances pertinentes."
----
-
 <span class="kicker">Outil · Chapitre 15</span>
 
 # Action dans les 30 jours, chapitre 15
@@ -33,7 +29,7 @@ Ces deux questions sont les plus urgentes parce qu’elles exigent une action im
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Cet outil prolonge le chapitre 15, « Les grandes tendances qui vont remodeler les SI ». Page à préciser à la parution.</p>
+<p>Cet outil prolonge le chapitre 15, « Les grandes tendances qui vont remodeler les SI ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>
