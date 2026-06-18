@@ -12,7 +12,6 @@ copyright: >-
 # ----------------------------------------------------------------------------
 theme:
   name: material
-  custom_dir: overrides    # <-- ligne à ajouter
   language: fr
   font:
     text: Inter
