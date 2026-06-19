@@ -20,7 +20,7 @@ Les ressources téléchargeables sont mises à disposition pour un usage personn
 
 ## Données personnelles
 
-Ce site ne collecte aucune donnée personnelle. Il n’utilise pas de cookies de suivi. Aucun formulaire de collecte n’est présent : le contact se fait par courriel direct.
+Ce site n’intègre aucun service tiers de mesure d’audience ni cookie de suivi, et ne charge aucune police de caractères depuis un serveur distant : l’ensemble des polices de caractères est auto-hébergé. Aucun formulaire de collecte n’est présent ; le contact se fait par courriel direct. En tant qu’hébergeur (voir « Hébergement » ci-dessus), GitHub, Inc. est susceptible d’enregistrer des données techniques de connexion, dont l’adresse IP, dans ses journaux serveur, conformément à sa propre politique de confidentialité ; l’auteur n’y a pas accès et n’en fait aucun usage.
 
 La page de téléchargement utilise un stockage local de navigateur (`localStorage`) à seule fin de mémoriser le mot de passe d’accès saisi, afin d’éviter une ressaisie. Cette donnée reste sur votre appareil et n’est jamais transmise.
 
