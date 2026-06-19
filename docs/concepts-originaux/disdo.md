@@ -16,7 +16,7 @@ Le principe qui le gouverne est la non-substitution : le DISDO ne décide pas �
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Le dispositif est détaillé au le chapitre 8, « Gouvernance et organisation de la fonction SI : piloter sans se substituer ».</p>
+<p>Le dispositif est détaillé au chapitre 8, « Gouvernance et organisation de la fonction SI : piloter sans se substituer ».</p>
 </div>
 
 !!! note "Concept original"

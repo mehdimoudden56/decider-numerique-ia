@@ -16,7 +16,7 @@ Ces quatre dimensions forment une grille de lecture opérationnelle, pas une th�
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Cette grille ouvre le livre, au le chapitre 1, « Toute organisation est désormais une organisation technologique ».</p>
+<p>Cette grille ouvre le livre, au chapitre 1, « Toute organisation est désormais une organisation technologique ».</p>
 </div>
 
 !!! note "Concept original"

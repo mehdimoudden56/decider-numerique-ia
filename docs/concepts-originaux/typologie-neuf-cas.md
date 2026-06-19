@@ -16,7 +16,7 @@ Cette grille ne prétend pas réduire les cas à leur dimension dominante : ell
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>La lecture transversale des neuf cas figure au le chapitre 10, « Cas concrets et retours d’expérience ».</p>
+<p>La lecture transversale des neuf cas figure au chapitre 10, « Cas concrets et retours d’expérience ».</p>
 </div>
 
 !!! note "Concept original"
