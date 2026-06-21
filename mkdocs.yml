@@ -118,11 +118,11 @@ nav:
       - Documents que le dirigeant doit exiger: outils/documents-dirigeant.md
       - Priorisation du portefeuille de projets: outils/priorisation-portefeuille.md
       - Grille de maturité projet et exploitation: outils/grille-maturite-projet-exploitation.md
-      - Conclusion outillée:
-          - Grilles et check-lists (A): outils/check-list-maturite-si.md
-          - Auto-diagnostic du dirigeant (B): outils/auto-diagnostic-dirigeant.md
-          - Tableaux de bord et comités (C): outils/tableau-bord-codir-si.md
-          - Scénarios types (D): outils/scenarios-types.md
+      - Compléments en ligne:
+          - Grilles et check-lists: outils/check-list-maturite-si.md
+          - Auto-diagnostic du dirigeant: outils/auto-diagnostic-dirigeant.md
+          - Tableaux de bord et comités: outils/tableau-bord-codir-si.md
+          - Scénarios types: outils/scenarios-types.md
       - Action dans les 30 jours:
           - Chapitre 1: outils/action-30-jours-ch01.md
           - Chapitre 2: outils/action-30-jours-ch02.md

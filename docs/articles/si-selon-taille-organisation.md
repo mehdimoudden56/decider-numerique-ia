@@ -4,7 +4,7 @@
 
 La taille de l’organisation est un autre facteur de variation majeur. Les défis d’une TPE de cinq personnes et ceux d’un grand groupe international ne sont pas comparables, même si les principes fondamentaux restent les mêmes.
 
-**Figure 2.5 : Profil du SI selon la taille de l’organisation**  
+**Profil du SI selon la taille de l’organisation**  
 *Les composantes, les outils et les modes de gouvernance varient fortement selon la taille*
 
 | Composante | TPE (< 10 pers.) | PME (10-200 pers.) | ETI (200-5000 pers.) | Grande org. (> 5000 pers.) |

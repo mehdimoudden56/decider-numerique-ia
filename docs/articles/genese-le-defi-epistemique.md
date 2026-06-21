@@ -12,7 +12,7 @@ C’est cette idée, mûrie puis formalisée ici, qui s’est ensuite structuré
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>La thèse ouvre le chapitre 1, « Toute organisation est désormais une organisation technologique ».</p>
+<p>La thèse ouvre le chapitre 1, « Toute organisation est désormais technologique ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

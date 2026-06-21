@@ -29,7 +29,7 @@ Ces deux questions sont les plus urgentes parce qu’elles exigent une action im
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Cet outil prolonge le chapitre 15, « Les grandes tendances qui vont remodeler les SI ».</p>
+<p>Cet outil prolonge le chapitre 15, « Les grandes tendances qui vont remodeler les systèmes d’information ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

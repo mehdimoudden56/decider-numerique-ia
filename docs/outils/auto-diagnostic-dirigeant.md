@@ -1,4 +1,4 @@
-<span class="kicker">Conclusion outillée · Outil B</span>
+<span class="kicker">Complément en ligne</span>
 
 # Grille d’auto-diagnostic du dirigeant en 20 questions
 

@@ -19,7 +19,7 @@ La troisième tendance est l’intégration de l’intelligence artificielle au 
 La quatrième tendance est la convergence IT-OT (Operational Technology). Les ERP s’interfacent désormais directement avec les systèmes de contrôle industriel (SCADA), les capteurs IoT et les systèmes de gestion du cycle de vie produit (PLM), abolissant la frontière historique entre le système d’information de gestion et le système opérationnel de production. Pour un industriel, cela ouvre la voie à une traçabilité complète, à un suivi en temps réel de la consommation énergétique par ligne de production, et à une intégration native des indicateurs de performance industrielle dans le tableau de bord de direction.
 La cinquième tendance est le rejet du grand projet monolithique. Après des années de déploiements mégalithiques qui se sont soldés par des dépassements de budget et des retards, les organisations adoptent des démarches progressives : par vagues fonctionnelles ou géographiques, avec des objectifs de valeur démontrée à chaque étape. Le temps de retour sur investissement est désormais un critère de pilotage de premier rang, pas une promesse de fin de projet.
 
-**Figure 15.7 : Stratégies ERP selon le contexte organisationnel**
+**Stratégies ERP selon le contexte organisationnel**
 
 | Contexte | Architecture recommandee | Points de vigilance | Horizon |
 | --- | --- | --- | --- |
@@ -48,7 +48,7 @@ Pour les organisations industrielles en cours de transformation numérique, l’
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Ce texte prolonge le chapitre 15, « Les grandes tendances qui vont remodeler les SI ».</p>
+<p>Ce texte prolonge le chapitre 15, « Les grandes tendances qui vont remodeler les systèmes d’information ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

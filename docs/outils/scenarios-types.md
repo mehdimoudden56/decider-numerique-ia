@@ -1,4 +1,4 @@
-<span class="kicker">Conclusion outillée · Outil D</span>
+<span class="kicker">Complément en ligne</span>
 
 # Scénarios types : que faire face aux situations les plus fréquentes
 

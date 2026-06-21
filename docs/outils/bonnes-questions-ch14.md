@@ -33,7 +33,7 @@
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Ces questions prolongent le chapitre 14, « Le rôle concret du dirigeant dans le pilotage SI ».</p>
+<p>Ces questions prolongent le chapitre 14, « Le rôle concret du dirigeant dans le pilotage du système d’information ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

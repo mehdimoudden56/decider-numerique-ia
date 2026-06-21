@@ -23,7 +23,7 @@ Organisez un atelier de deux heures avec votre DSI et les directeurs métiers cl
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Cet outil prolonge le chapitre 3, « Données et IA : les nouveaux actifs stratégiques ».</p>
+<p>Cet outil prolonge le chapitre 3, « Données et IA, les actifs stratégiques du dirigeant ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

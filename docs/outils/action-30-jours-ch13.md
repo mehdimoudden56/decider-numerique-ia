@@ -25,7 +25,7 @@ Si ces trois questions ne reçoivent pas de réponse précise dans votre organis
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Cet outil prolonge le chapitre 13, « L’IA au service de la stratégie et des opérations ».</p>
+<p>Cet outil prolonge le chapitre 13, « L’intelligence artificielle au service de la stratégie et des opérations ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

@@ -1,4 +1,4 @@
-<span class="kicker">Conclusion outillée · Outil C</span>
+<span class="kicker">Complément en ligne</span>
 
 # Modèles de tableaux de bord et de comités
 

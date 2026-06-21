@@ -20,7 +20,7 @@
 La maîtrise du vocabulaire n’est utile que si elle s’accompagne d’une exigence de transparence documentaire vis-à-vis de la DSI. Le tableau ci-dessous liste les documents et indicateurs qui constituent le tableau de bord minimal d’une gouvernance SI saine.
 Ces documents ne requièrent pas de compétences techniques pour être lus : ils requièrent que la DSI fasse l’effort de les produire dans un langage accessible aux non-spécialistes. Si votre DSI est dans l’incapacité de vous les fournir dans un format lisible, c’est un signal que la gouvernance SI mérite d’être structurée ou renforcée.
 
-**Figure 4.6 : Le tableau de bord SI du dirigeant**  
+**Le tableau de bord SI du dirigeant**  
 *Sept documents et indicateurs clés pour une gouvernance SI saine*
 
 | Document ou indicateur | Ce qu’il mesure | Fréquence | Ce que le dirigeant doit en attendre |

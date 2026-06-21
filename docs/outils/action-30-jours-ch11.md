@@ -23,7 +23,7 @@ Demandez à votre DSI et à votre DAF de produire conjointement, avant votre pro
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Cet outil prolonge le chapitre 11, « Performance économique du SI : piloter les coûts, mesurer la valeur ».</p>
+<p>Cet outil prolonge le chapitre 11, « Performance économique et écologique du système d’information ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

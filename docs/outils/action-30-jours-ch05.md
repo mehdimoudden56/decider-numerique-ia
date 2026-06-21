@@ -23,7 +23,7 @@ Organisez un entretien de 45 minutes avec votre DSI ou responsable IT autour de 
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Cet outil prolonge le chapitre 5, « Les métiers et compétences de la filière SI/Data/IA ».</p>
+<p>Cet outil prolonge le chapitre 5, « Les métiers et compétences de la filière numérique ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

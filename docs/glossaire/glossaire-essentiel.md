@@ -1,4 +1,4 @@
-<span class="kicker">Conclusion outillée · Outil E</span>
+<span class="kicker">Glossaire du livre</span>
 
 # Glossaire essentiel : termes SI, Data et IA
 

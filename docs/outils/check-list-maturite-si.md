@@ -1,4 +1,4 @@
-<span class="kicker">Conclusion outillée · Outil A</span>
+<span class="kicker">Complément en ligne</span>
 
 # Grilles de lecture et check-lists
 

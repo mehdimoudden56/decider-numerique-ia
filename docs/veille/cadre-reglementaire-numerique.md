@@ -5,7 +5,7 @@
 La réglementation numérique s’est considérablement renforcée depuis 2018 avec le RGPD, et continue de s’étoffer avec NIS2, DORA, l’AI Act et le Data Act. Ce corpus réglementaire crée des obligations directes pour les dirigeants, y compris une responsabilité personnelle dans certains cas.
 Le tableau suivant synthétise les cinq textes réglementaires que tout dirigeant doit connaître. Cette synthèse est informative et ne saurait remplacer un conseil juridique spécialisé.
 
-**Figure 4.5 : Le cadre réglementaire numérique applicable aux organisations françaises**  
+**Le cadre réglementaire numérique applicable aux organisations françaises**  
 *Synthèse des cinq textes clés, de leurs obligations et de ce que le dirigeant doit vérifier*
 
 | Règlement | Entrée en vigueur | Ce qu’il impose | Ce que le dirigeant doit vérifier |

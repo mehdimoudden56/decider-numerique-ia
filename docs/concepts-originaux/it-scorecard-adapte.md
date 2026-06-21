@@ -15,7 +15,7 @@ Le livre précise, pour chaque axe, des indicateurs représentatifs et leurs seu
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Les axes et leurs indicateurs sont détaillés au chapitre 11, « Performance économique du SI : piloter les coûts, mesurer la valeur ».</p>
+<p>Les axes et leurs indicateurs sont détaillés au chapitre 11, « Performance économique et écologique du système d’information ».</p>
 </div>
 
 !!! note "Concept original"

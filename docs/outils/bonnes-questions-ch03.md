@@ -35,7 +35,7 @@
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Ces questions prolongent le chapitre 3, « Données et IA : les nouveaux actifs stratégiques ».</p>
+<p>Ces questions prolongent le chapitre 3, « Données et IA, les actifs stratégiques du dirigeant ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

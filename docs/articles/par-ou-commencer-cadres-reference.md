@@ -20,7 +20,7 @@ Ne pas tout lancer en même temps. Chaque cadre demande un investissement en for
 
 Mesurer la maturité avant de choisir. Avant d’engager un nouveau cadre, objectiver le point de départ. Un outil d’auto-évaluation transverse, publié en 2026 par le Cigref, l’IFACI et ISACA France et présenté au chapitre 8, permet de visualiser les fragilités les plus importantes et de prioriser les chantiers sur une base factuelle.
 
-**Figure 7.2. Choisir le bon cadre selon la situation**  
+**Choisir le bon cadre selon la situation**  
 *Guide de sélection pratique pour le dirigeant.*
 
 | Situation de l’organisation | Cadre prioritaire | Cadre complémentaire | Signal que le cadre est bien appliqué |

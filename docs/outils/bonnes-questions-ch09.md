@@ -31,7 +31,7 @@
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Ces questions prolongent le chapitre 9, « Piloter la transformation, SDSI vivant, instances et conduite du changement ».</p>
+<p>Ces questions prolongent le chapitre 9, « Le Schéma Directeur SI, traduire la stratégie en feuille de route numérique ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

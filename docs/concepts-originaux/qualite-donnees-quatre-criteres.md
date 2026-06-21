@@ -15,7 +15,7 @@ Le livre associe à chaque critère un signal d’alerte managérial et la faço
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Les critères et leurs signaux d’alerte sont développés au chapitre 9, « Piloter la transformation, SDSI vivant, instances et conduite du changement ».</p>
+<p>Les critères et leurs signaux d’alerte sont développés au chapitre 9, « Le Schéma Directeur SI, traduire la stratégie en feuille de route numérique ».</p>
 </div>
 
 !!! note "Concept original"

@@ -27,7 +27,7 @@ Ce rituel simple est le point de départ du partenariat stratégique décrit dan
 
 <div class="ref-livre" markdown>
 <span class="ref-livre-label">Référence dans le livre</span>
-<p>Cet outil prolonge le chapitre 14, « Le rôle concret du dirigeant dans le pilotage SI ».</p>
+<p>Cet outil prolonge le chapitre 14, « Le rôle concret du dirigeant dans le pilotage du système d’information ».</p>
 </div>
 
 <p class="disclaimer">L’auteur s’exprime à titre personnel. © 2026 Mehdi Moudden.</p>

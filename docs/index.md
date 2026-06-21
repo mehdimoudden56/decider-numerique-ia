@@ -21,6 +21,18 @@ La thèse du livre est simple : le défi du dirigeant face au numérique n’est
 <div class="card-grid" markdown>
 
 <div class="card" markdown>
+<span class="card-tag">Le livre</span>
+### À propos de l’ouvrage
+La genèse, la thèse et le public visé du livre.
+
+[Découvrir le livre](a-propos-du-livre/index.md)
+
+[Prévenez-moi de la sortie](mailto:contact@decider-numerique-ia.fr?subject=Sortie%20du%20livre)
+
+*Votre adresse ne servira qu’à vous prévenir de la sortie du livre, puis sera supprimée. Aucun partage à des tiers.*
+</div>
+
+<div class="card" markdown>
 <span class="card-tag">Outil phare</span>
 ### Auto-évaluation en 20 questions
 Situez la maturité de la gouvernance numérique de votre organisation en vingt minutes.
@@ -34,14 +46,6 @@ Situez la maturité de la gouvernance numérique de votre organisation en vingt 
 Grilles, check-lists, questions à poser, modèles de tableaux de bord.
 
 [Voir les outils](outils/index.md)
-</div>
-
-<div class="card" markdown>
-<span class="card-tag">Le livre</span>
-### À propos de l’ouvrage
-La genèse, la thèse, le public visé, et où se procurer le livre.
-
-[En savoir plus](a-propos-du-livre/index.md)
 </div>
 
 </div>

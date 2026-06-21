@@ -7,7 +7,7 @@ Un SI mature, quelle que soit la taille de l’organisation, se reconnaît à pl
 Un SI vraiment mature est devenu aussi naturel et essentiel que l’air que respirent ses utilisateurs : on ne le remarque que lorsqu’il manque.
 À l’inverse, un SI fragile se signale par des symptômes reconnaissables : données dupliquées ou contradictoires selon les services, impossibilité de produire un reporting consolidé fiable, projets SI qui prennent systématiquement deux à trois fois plus de temps que prévu, utilisateurs qui contournent les systèmes officiels avec des tableurs personnels, et une accumulation silencieuse de dette technique.
 
-**Figure 2.6 : Grille de diagnostic : SI mature vs SI fragile**  
+**Grille de diagnostic : SI mature vs SI fragile**  
 *Six dimensions pour évaluer la santé de votre système d’information*
 
 | Dimension | SI mature : ce que vous observez | SI fragile : signaux d’alarme |
